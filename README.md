@@ -1,4 +1,4 @@
-# Automation Tools Directory
+# Top Automation Tools Directory
 
 A curated list of tools for marketing, development, sales, and workflow automation.
 
