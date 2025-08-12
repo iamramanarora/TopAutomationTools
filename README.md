@@ -108,6 +108,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [QAgent](https://www.qagent.run/): An AI-powered testing tool that automates website testing, eliminating the need for manual QA and ensuring site reliability.
 *   [Qwen3](https://github.com/QwenLM/Qwen3): Alibaba Cloud's open-source large language model series, offering advanced intelligence with dense and MoE models.
 *   [QualGent](https://qualgent.ai/): An AI-powered mobile app testing platform that automates iOS and Android app testing, finding bugs faster than traditional methods.
+*   [Recurse ML](https://recurse.ml): Find bugs in AI Generated Code
 *   [Sahha](https://sahha.ai/insights-api): It helps you understand user trends, compare groups, and reveal shifts in activity, sleep, and behavior for personalized experiences.
 *   [Selenium](https://www.selenium.dev/): It automates browsers for testing and administration, offering WebDriver, IDE, and Grid tools for scalable automation across environments.
 *   [Superexpert.AI](https://superexpert.ai/): An open-source platform that simplifies building and deploying AI applications with flexibility and transparency.
