@@ -237,6 +237,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Inkr](https://inkr.app/): An AI-powered transcription tool that converts audio and video to text, offering fast, accurate, and searchable transcripts.
 *   [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper): It transcribes audio files to text using OpenAI's Whisper and Nvidia Parakeet, offering fast, accurate, on-device transcription.
 *   [Manus](https://manus.im/login): An AI assistant designed to turn ideas into actions, streamlining tasks in both work and personal life.
+*   [Mathos AI](https://www.mathgptpro.com/): The best AI math solver, calculator and tutor
 *   [Mem](https://get.mem.ai/): An AI-powered note-taking app designed to organize information and enhance productivity for busy professionals.
 *   [Miro](https://miro.com/): A collaborative online whiteboard platform designed to help distributed teams brainstorm, plan, and execute ideas visually in real time.
 *   [Mini Stopwatch](https://clemstation.com/mini-stopwatch): A minimalist menubar stopwatch for macOS, designed for speed and ease of use with one-click start and stop functionality.
