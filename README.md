@@ -249,6 +249,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Pill Buddy](https://pillbuddy.app/): A medication tracker app with a friendly mascot that reminds you to take your pills on time with fun and privacy-first approach.
 *   [Podlettr](https://www.podlettr.com/): It delivers AI-generated podcast summaries to your inbox weekly, saving you time and keeping you informed about your favorite shows.
 *   [Pretty Prompt](https://www.pretty-prompt.com/): An AI-powered tool that helps users create perfect prompts for better AI results, acting as a Grammarly for prompting.
+*   [QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/fmjmpddidbamnkaghgjjjcpfmcnplpoe?hl=en): Scan QR code from page, image or camera.
 *   [Raindrop.io](https://raindrop.io/): A modern bookmarking tool that lets users collect, organize, and share links in a visually rich and intuitive interface.
 *   [Raycast](https://www.raycast.com/): It is a blazingly fast, extensible launcher that lets you complete tasks, calculate, share common links and much more.
 *   [Reclaim](https://reclaim.ai/): An AI-powered calendar app that creates 40% more time for teams by auto-scheduling tasks, habits, meetings, and breaks.
