@@ -282,6 +282,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [ClearCompany](https://www.clearcompany.com/): A talent management system with ATS, onboarding, learning, performance, and compensation management solutions.
 *   [Crustdata](https://crustdata.com/): Provides real-time B2B data via API or data feed, empowering platforms with accurate company and people insights for sales and AI applications.
 *   [Datagma](https://datagma.com/): B2B data enrichment & phone finder. Find verified emails & mobile numbers in real-time. API & file upload available.
+*   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Dolphin AI](https://www.getdolphin.ai/): It turns customer calls into shareable highlight reels, finding and snipping key quotes with AI-powered automation for sales and marketing.
 *   [Fountain India](https://www.fountain.com/in/fountain-india): It streamlines high-volume hiring with AI-powered automation, mobile-first solutions, and multilingual support for diverse industries.
 *   [Graph8](https://graph8.com/): An AI-powered platform automating sales development with AI agents for answering calls, engaging on chat, and growing customer base.
