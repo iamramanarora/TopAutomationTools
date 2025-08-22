@@ -233,6 +233,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [FileTract](https://filetract.com/): It automates financial data extraction, analysis, and organization with AI, saving time and unlocking growth opportunities.
 *   [Finetuning](https://promptrepo.com/finetune/): AI models using data in Google Sheets, test with formulas, and integrate into apps via API for custom AI solutions.
 *   [Grammarly](https://www.grammarly.com/): Offers AI writing assistance, providing personalized guidance and text generation across various apps and websites for smarter work.
+*   [GuideToDocs](https://guidetodocs.com/): Step by step instructions creation tool.
 *   [Headroom](https://www.headroom.ee/): An all-in-one podcasting toolkit that automates routine tasks, letting you focus on content creation and publishing effortlessly.
 *   [HoldSpeak](https://holdspeak.com/): AI-powered voice-to-text macOS app for 3x faster dictation in any application, offline & with 100+ languages.
 *   [ImageMate](https://imagemate.app/): It uses AI to organize your photos with smart tagging, meaningful descriptions, and better file names, working directly on local files.
