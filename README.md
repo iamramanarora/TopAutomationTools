@@ -128,6 +128,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [VibeShift](https://github.com/GroundNG/VibeShift): AI-powered security agent for AI coding assistants, automating vulnerability analysis and remediation for secure code development.
 *   [Vibesuite](https://vibesuite.co/): It supercharges your AI coding workflow with instant notifications, sound alerts, and smart tab management for faster coding.
 *   [VizDiff](https://vizdiff.io/): It automates visual regression testing for Storybook components, integrating with GitHub Checks to prevent UI regressions before merging.
+*   [Waveon](https://www.waveon.io/): AI landing page builder for IT startup.
 
 ---
 
