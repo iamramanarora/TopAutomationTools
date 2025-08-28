@@ -306,6 +306,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [RepScout](https://repscout.ai/): An AI-powered talent assessment platform that helps companies evaluate candidates through objective, data-driven insights.
 *   [Saina](https://ai.hirehunch.com/interview/): An AI-powered hiring platform that automates candidate screening and interviews, helping recruiters quickly identify top talent.
 *   [SalesAgent Chat](https://www.salesagent.chat): AI-powered coach and assistant to boost confidence and close more deals.
+*   [SalesMagic](https://www.salesmagic.com/): Virtual role-playing and live-call analysis for sales teams.
 *   [Salesforce](https://www.salesforce.com/in/): The Customer Company, offering a leading CRM platform unifying marketing, sales, service, commerce, and IT teams.
 *   [SamCart](https://www.samcart.com/): eCommerce platform to sell digital products online with innovative checkout and conversion boosting features.
 *   [SeekOut](https://www.seekout.com/): AI-driven platform helps organizations source, hire, and retain top talent efficiently with Recruit and Spot solutions.
