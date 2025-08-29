@@ -31,6 +31,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Sagehood](https://sagehood.ai/): It analyzes billions of data points, transforming complex information into actionable insights for investment goals using AI.
 *   [Statstream AI](https://www.statstream.ai/): An AI-powered tool that analyzes user feedback, support tickets, and survey data to generate product insights and guide roadmap decisions.
 *   [Tensorlake](https://www.tensorlake.ai/): AI Data Cloud transforming unstructured data into ingestion-ready formats for AI applications and serverless workflows.
+*   [Wallet Finder AI](https://www.walletfinder.ai/): Defi wallets and tokens analytics information.
 
 ---
 
