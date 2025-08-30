@@ -233,6 +233,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [DeckSpeed](https://www.deckspeed.com/en): An AI-powered presentation tool that creates personalized slides from conversations, eliminating the need for templates.
 *   [FileTract](https://filetract.com/): It automates financial data extraction, analysis, and organization with AI, saving time and unlocking growth opportunities.
 *   [Finetuning](https://promptrepo.com/finetune/): AI models using data in Google Sheets, test with formulas, and integrate into apps via API for custom AI solutions.
+*   [Gmail Templates](https://chromewebstore.google.com/detail/gmail-templates/kaeijgdoncmgjmfdnhaokghffemedkgh): Text Expander Chrome.
 *   [Grammarly](https://www.grammarly.com/): Offers AI writing assistance, providing personalized guidance and text generation across various apps and websites for smarter work.
 *   [GuideToDocs](https://guidetodocs.com/): Step by step instructions creation tool.
 *   [Headroom](https://www.headroom.ee/): An all-in-one podcasting toolkit that automates routine tasks, letting you focus on content creation and publishing effortlessly.
