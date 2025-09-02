@@ -18,6 +18,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 
 ### AI & Machine Learning
 
+*   [Amino: Supplement Scanner](https://aminohealth.app/): AI-powered supplement scanner and tracker for clean, safe choices.
 *   [App Reply](https://appreply.co/): AI-powered platform for automating app store review responses, saving support time and improving app ratings and user retention.
 *   [Blaze AI](https://www.blaze.ai/): AI-powered marketing tool that generates high-quality content like blogs, posts, and emails in your brand voice, saving time and money.
 *   [Clemta Intelligence](https://clemta.com/intelligence/): An AI-powered business assistant automating bookkeeping, tax prep, and financial reporting for streamlined growth.
