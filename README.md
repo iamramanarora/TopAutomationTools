@@ -266,6 +266,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Shhshot](https://shhshot.space/): Automatically detects and blurs sensitive data in screenshots, ensuring privacy and a smooth, focused workflow for secure sharing.
 *   [Silver Pennies](https://www.silverpennies.info/): An AI agent that automatically tracks your debits and credits from your emails, providing AI-powered financial insights.
 *   [Smart Keys](https://smartkeys.so/for-macos/): An AI-powered keyboard for MacOS that helps proofread, fix grammar, translate, and create custom AI shortcuts.
+*   [Supercamp](https://supercamp.ai/): AI workspace for business
 *   [Superlist](https://www.superlist.com/): An AI-powered productivity tool for managing tasks, notes, and meetings with real-time collaboration and cross-platform support.
 *   [Syft AI](https://syft.ai/): It delivers impossibly tailored news using AI to filter duplicates and provide clear, concise summaries from trusted global sources.
 *   [Tabs Magic](https://tabsmagic.com/): Effortlessly manage Chrome tabs with visual drag-and-drop organization, color coding, and custom naming for a tidy workspace.
