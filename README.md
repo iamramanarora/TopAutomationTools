@@ -60,6 +60,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [GenPPT](https://genppt.com/): An AI-powered presentation generator that creates professional PowerPoint presentations in seconds, saving users time and effort.
 *   [Lineicons](https://lineicons.com/): It offers 26082+ free and premium line icons in various formats (SVG, PNG, React, Figma) with CDN and customization options for designers and developers.
 *   [Mangaka](https://mangaka.app/): An AI-powered tool that transforms scripts into manga-style illustrations, enabling users to create visual narratives effortlessly.
+*   [MyNextInk](https://www.mynextink.com): The all-in-one tattoo platform
 *   [Octopus.do](https://octopus.do/): It is a visual AI website builder with lo-fi wireframes for prototyping website architecture and structure, offering site mapping and AI diagram tools.
 *   [Pictory](https://pictory.ai/): AI-powered video creation platform that enables users to easily transform text and other content into engaging videos.
 *   [Rollout AI](https://rollout.site/): An AI-powered landing page and website builder designed to create high-performing websites with ease.
