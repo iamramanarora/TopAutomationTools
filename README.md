@@ -249,6 +249,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Miro](https://miro.com/): A collaborative online whiteboard platform designed to help distributed teams brainstorm, plan, and execute ideas visually in real time.
 *   [Mini Stopwatch](https://clemstation.com/mini-stopwatch): A minimalist menubar stopwatch for macOS, designed for speed and ease of use with one-click start and stop functionality.
 *   [Nelly](https://nelly.is/): A complete AI agent platform to build, use, and share AI agents that can handle simple tasks to complex workflows, no coding required.
+*   [Night Mode](https://chromewebstore.google.com/detail/night-mode/ocjndlfidedijchleaiegckngmpcpjga): Night mode for Chrome: dark theme, yellow filter & text resize.
 *   [Nodeflow AI](https://get.nodeflowai.com/): A visual workspace powered by AI to organize and analyze content from YouTube, PDFs, websites, and more.
 *   [Notion](https://www.notion.com/): An all-in-one AI workspace that combines note-taking, project management, and collaboration into a single, flexible platform.
 *   [PDF.ai](https://pdf.ai/): An AI-powered ChatPDF app that allows users to chat with PDF documents, ask questions, get summaries, and find information.
