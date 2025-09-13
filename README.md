@@ -145,6 +145,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Alli AI](https://www.alliai.com/): AI SEO tool for marketing agencies and enterprises. Automate SEO tasks, improve efficiency, and achieve higher rankings.
 *   [Attentive](https://www.attentive.com/): AI-powered SMS and email marketing platform that helps businesses deliver personalized customer experiences.
 *   [BLOGBOTT](http://blogbott.com/): An AI blog automation platform that analyzes answer box algorithms to write and auto-publish SEO-optimized content, improving search visibility.
+*   [Beheard Labs](https://www.gobeheard.com/): AI-Powered Customer Insight Platform
 *   [Benchmark Email](https://www.benchmarkemail.com/): A simple email marketing platform with AI-powered design, automation, landing pages, and reporting for effective campaigns.
 *   [BigMarker](https://www.bigmarker.com/): It is a webinar and virtual event platform offering tools for audience engagement, marketing, and data-driven insights.
 *   [Blip Billboards](https://www.blipbillboards.com/): Self-serve digital billboard advertising platform offering flexible, easy-to-use solutions for businesses of all sizes.
