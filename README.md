@@ -258,6 +258,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Paste](https://pasteapp.io/paste-5): A collaborative clipboard manager with shared pinboards, improved performance, and enhanced productivity features for teams.
 *   [Perplexity AI](https://www.perplexity.ai/): An AI-powered search engine and answer assistant that delivers concise, sourced answers using real-time web data.
 *   [Pill Buddy](https://pillbuddy.app/): A medication tracker app with a friendly mascot that reminds you to take your pills on time with fun and privacy-first approach.
+*   [PodcastAdBlock](https://podcastadblock.app/): Remove ads from any podcast feed with AI.
 *   [Podlettr](https://www.podlettr.com/): It delivers AI-generated podcast summaries to your inbox weekly, saving you time and keeping you informed about your favorite shows.
 *   [Pretty Prompt](https://www.pretty-prompt.com/): An AI-powered tool that helps users create perfect prompts for better AI results, acting as a Grammarly for prompting.
 *   [QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/fmjmpddidbamnkaghgjjjcpfmcnplpoe?hl=en): Scan QR code from page, image or camera.
