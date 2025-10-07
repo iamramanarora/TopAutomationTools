@@ -40,6 +40,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 ### Business
 
 *   [Flipdish](https://www.flipdish.com/): It provides an all-in-one restaurant POS and online ordering solution, simplifying restaurant management and boosting efficiency.
+*   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
 *   [SimplePerf](https://buddieshr.com/simpleperf): A simple, guided 360° performance review tool made for small teams.
