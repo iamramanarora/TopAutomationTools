@@ -34,6 +34,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Statstream AI](https://www.statstream.ai/): An AI-powered tool that analyzes user feedback, support tickets, and survey data to generate product insights and guide roadmap decisions.
 *   [Tensorlake](https://www.tensorlake.ai/): AI Data Cloud transforming unstructured data into ingestion-ready formats for AI applications and serverless workflows.
 *   [Wallet Finder AI](https://www.walletfinder.ai/): Defi wallets and tokens analytics information.
+*   [Zolltarifnummer.com](https://www.zolltarifnummer.com/): Find and verify the right 11-digit German customs tariff number.
 
 ---
 
