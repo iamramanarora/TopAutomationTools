@@ -44,6 +44,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
+*   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [SimplePerf](https://buddieshr.com/simpleperf): A simple, guided 360° performance review tool made for small teams.
 *   [Tapflow](https://www.tapflow.ai/): It enables tech professionals to create and sell digital guides, workflows, and courses, packaging knowledge into revenue streams.
 *   [Timesible](https://timesible.io/): An all-in-one platform for remote teams, offering project management, time tracking, and invoicing in one place.
