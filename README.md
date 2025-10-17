@@ -232,6 +232,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [1Stroke](https://www.1stroke.ai/): An AI-powered tool that helps you craft meaningful replies quickly and easily across the web.
 *   [Agenda Hero](https://agendahero.com/magic-page): It converts text into calendar events, streamlining appointment scheduling and enhancing productivity for individuals and teams.
 *   [Aladin AI](https://aladin-ai.com/): Context-aware AI browser extension for summarizing videos, editing docs, and streamlining research across any site or file.
+*   [Alai](https://getalai.com): Create high quality presentations with AI.
 *   [Antispace](https://anti.space/): An AI-powered operating system designed to streamline workflows and automate tasks, enhancing productivity with AI sidekicks.
 *   [Asana](https://asana.com/lp): AI-powered platform for team work management, connecting tasks to goals, integrating with 300+ apps, and trusted by top companies.
 *   [Audionotes.app](https://www.audionotes.app/): It uses AI to transform voice recordings, text notes, images, audio/video files, and YouTube videos into structured notes.
