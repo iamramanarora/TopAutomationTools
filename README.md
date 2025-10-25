@@ -29,6 +29,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Monity.ai](https://monity.ai/): AI-powered website change monitoring with real-time alerts, data extraction, and automation for businesses and personal use.
 *   [Nexus](https://www.trynexus.io/): It lets you build and launch custom AI database analyst agents to scale business insights without scaling your payroll.
 *   [PayCalculator](https://paycalculator.ai/): PayCalculator.ai instantly calculates take-home pay with tax breakdowns.
+*   [Property Forecast](https://propertyforecast.co/): Data analytics for real estate investors.
 *   [Querri](https://querri.ai/): AI-powered data platform that makes data insights ridiculously easy using natural language queries and automated reports.
 *   [Retool](https://retool.com/): A unified platform to build internal tools with AI, connecting to any database, API, or LLM for streamlined business operations.
 *   [Sagehood](https://sagehood.ai/): It analyzes billions of data points, transforming complex information into actionable insights for investment goals using AI.
