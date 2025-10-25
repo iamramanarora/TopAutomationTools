@@ -88,6 +88,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Backstage](https://backstage.io/): An open-source developer portal platform for building and managing software, services, and documentation.
 *   [Chef Software](https://www.chef.io/): It automates infrastructure, security, and application delivery, enabling DevOps success from cloud to edge with configuration management.
 *   [Cilium](https://cilium.io/): Cloud native solution for networking, observability, and security using eBPF, enabling high-performance connectivity for workloads.
+*   [CloudRay](https://cloudray.io): a centralised platform for managing servers, organizing Bash scripts, and automating infrastructure tasks across cloud and virtual machines. 
 *   [CodeRabbit](https://www.coderabbit.ai/): Provides AI-powered code reviews, automating issue detection and code improvement suggestions for faster and more efficient development.
 *   [Codemagic](https://codemagic.io/start/): It is a CI/CD platform tailored for mobile app development, offering automated building, testing, and releasing for various platforms.
 *   [Cucumber](https://cucumber.io/): It is a tool for running automated acceptance tests written in plain language, improving team communication and collaboration.
