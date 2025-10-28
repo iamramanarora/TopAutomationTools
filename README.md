@@ -252,6 +252,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Headroom](https://www.headroom.ee/): An all-in-one podcasting toolkit that automates routine tasks, letting you focus on content creation and publishing effortlessly.
 *   [HoldSpeak](https://holdspeak.com/): AI-powered voice-to-text macOS app for 3x faster dictation in any application, offline & with 100+ languages.
 *   [ImageMate](https://imagemate.app/): It uses AI to organize your photos with smart tagging, meaningful descriptions, and better file names, working directly on local files.
+*   [Inbox2Action](https://inbox2action.com): Turn Emails into Tasks in Seconds.
 *   [Inkr](https://inkr.app/): An AI-powered transcription tool that converts audio and video to text, offering fast, accurate, and searchable transcripts.
 *   [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper): It transcribes audio files to text using OpenAI's Whisper and Nvidia Parakeet, offering fast, accurate, on-device transcription.
 *   [Manus](https://manus.im/login): An AI assistant designed to turn ideas into actions, streamlining tasks in both work and personal life.
