@@ -174,6 +174,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [DataFeedWatch](https://www.datafeedwatch.com/): A data feed management platform that helps e-commerce businesses optimize product feeds for 2000+ channels, improving campaign performance.
 *   [ExpertSender](https://expertsender.com/): AI-powered omnichannel marketing automation platform for e-commerce, offering personalization, data analytics, and multi-channel communication.
 *   [FeedOtter](https://www.feedotter.com/): It automates newsletter creation, saving publishers time by streamlining content integration with existing email platforms.
+*   [Flowcart](https://flowcart.ai/): Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp.
 *   [Frase](https://frase.io/): An AI-powered SEO content optimization tool that helps content creators research, write, and optimize high-ranking articles faster.
 *   [GetResponse](https://www.getresponse.com/): An email marketing and automation platform with AI features, landing pages, and tools to grow your audience and sales.
 *   [HubSpot](https://www.hubspot.com/): It's customer platform includes all the software you need to grow your business, now with AI-powered features.
