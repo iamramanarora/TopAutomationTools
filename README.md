@@ -318,6 +318,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Dolphin AI](https://www.getdolphin.ai/): It turns customer calls into shareable highlight reels, finding and snipping key quotes with AI-powered automation for sales and marketing.
 *   [Fountain India](https://www.fountain.com/in/fountain-india): It streamlines high-volume hiring with AI-powered automation, mobile-first solutions, and multilingual support for diverse industries.
+*   [Gloroots](https://www.gloroots.com/): From hire to payroll—Gloroots powers your global team.
 *   [Graph8](https://graph8.com/): An AI-powered platform automating sales development with AI agents for answering calls, engaging on chat, and growing customer base.
 *   [HireEZ](https://hireez.com/): An AI-first recruiting platform unifying sourcing, screening, analytics, and internal mobility to streamline hiring processes.
 *   [Hirevue](https://www.hirevue.com/): AI-powered platform validates candidate skills with video interviewing and assessments, transforming hiring strategies for better talent.
