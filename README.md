@@ -182,6 +182,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Flowcart](https://flowcart.ai/): Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp.
 *   [Frase](https://frase.io/): An AI-powered SEO content optimization tool that helps content creators research, write, and optimize high-ranking articles faster.
 *   [GetResponse](https://www.getresponse.com/): An email marketing and automation platform with AI features, landing pages, and tools to grow your audience and sales.
+*   [Hooked AI](https://hookedai.ai/): HookedAI - AI-Powered LinkedIn Marketing.
 *   [HubSpot](https://www.hubspot.com/): It's customer platform includes all the software you need to grow your business, now with AI-powered features.
 *   [Hunter](https://hunter.io/): An all-in-one email outreach platform to find and connect with professionals, offering tools for email finding, verification, and campaigns.
 *   [Iconosquare](https://www.iconosquare.com/): An all-in-one platform for social media managers with analytics, scheduling, listening, and collaboration tools.
