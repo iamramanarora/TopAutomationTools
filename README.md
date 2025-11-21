@@ -154,6 +154,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [ActiveCampaign](https://www.activecampaign.com/): AI-powered marketing automation for personalized customer experiences across email, SMS, WhatsApp, and more, with 900+ integrations.
 *   [Affonso](https://affonso.io/): An affiliate software for SaaS, enabling businesses to launch, manage, and scale profitable affiliate programs with ease.
 *   [Ahrefs](https://ahrefs.com/): An all-in-one SEO toolset to grow your search traffic, research your competitors, and dominate your niche.
+*   [AI One Pager Generator](https://venngage.com/ai-tools/one-pager-generator): AI-powered one-pager designs, fast and effortless.
 *   [Ai Trillion](https://www.aitrillion.com/): An all-in-one Shopify marketing automation platform with email, SMS, loyalty, reviews, live chat, and workflow automation.
 *   [AirOps](https://www.airops.com/): It helps marketers build powerful LLM workflows that combine data, GPT-4, Claude, and Gemini to drive real growth in their business.
 *   [Airpost](https://airpost.ai/): AI-powered video ad creation platform with creative strategists, offering enterprise-grade UGC video ads for growth marketers.
