@@ -303,6 +303,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [TranslateAir](https://www.translateair.com/): AI-powered translation & OCR tool for macOS. Instantly translate text from any app, website, or document.
 *   [Verve](https://verve.projectv.uk/): An AI-powered note-taking app for productivity, knowledge base creation, and creative organization, featuring AI chatbot and quick capture.
 *   [Vibot](https://vibot.projectv.uk/): An AI-powered chatbot platform offering multiple models and personalities for enhanced customer engagement and support.
+*   [Worklytics](https://www.worklytics.co/): Analytics on AI and Productivity.
 *   [remio](https://www.remio.ai/): An AI productivity assistant that captures, organizes, and helps utilize information securely on your device, enhancing workflow.
 *   [X-doc AI](https://x-doc.ai/): The most accurate AI translator
 
