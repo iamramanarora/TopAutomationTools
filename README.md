@@ -81,7 +81,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Screenshots Pro](https://screenshots.pro/): An app store screenshot generator for iOS & Android, offering templates, device mockups, localization, and an API for automation.
 *   [Snapdeck](https://www.snapdeck.app/): Figma plugin that generates slides from your designs using AI, enabling fast and customizable presentation creation.
 *   [eSelf](https://www.eself.ai/): Design lifelike AI avatars & video chatbots in 30+ languages to scale your business and boost engagement with innovative video tools.
-
+*   [EnhancePhoto AI](https://enhancephoto.ai/): Free image Enhancer
 ---
 
 ### Development & Testing
