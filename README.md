@@ -28,6 +28,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Leonardo.Ai](https://leonardo.ai/): An AI-powered platform for generating high-quality images, game assets, and design content using text prompts, trained models, and fine-tuned visual styles.
 *   [Linkeddit](https://www.linkeddit.com/): It helps you find your next customers on Reddit by creating custom AI agents that scrape Reddit for users ready to buy.
 *   [Monity.ai](https://monity.ai/): AI-powered website change monitoring with real-time alerts, data extraction, and automation for businesses and personal use.
+*   [MyDetector](https://mydetector.ai/): Accurate AI Content Detector for ChatGPT and other tools.
 *   [Nexus](https://www.trynexus.io/): It lets you build and launch custom AI database analyst agents to scale business insights without scaling your payroll.
 *   [PayCalculator](https://paycalculator.ai/): PayCalculator.ai instantly calculates take-home pay with tax breakdowns.
 *   [Poison Pill](https://poisonpill.ai): Invisible protection against AI training.
