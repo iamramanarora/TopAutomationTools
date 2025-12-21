@@ -25,6 +25,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Blaze AI](https://www.blaze.ai/): AI-powered marketing tool that generates high-quality content like blogs, posts, and emails in your brand voice, saving time and money.
 *   [Clemta Intelligence](https://clemta.com/intelligence/): An AI-powered business assistant automating bookkeeping, tax prep, and financial reporting for streamlined growth.
 *   [ExamGPT](https://excelas.ai/): AI Assessment Platform.
+*   [GrammarChecker](https://aigrammarchecker.io/): AI Grammar Checker instantly fixes writing errors.
 *   [Komment](https://www.komment.ai/): It automates software documentation with pipelines that plug into developer workflows, creating reliable docs with zero third-party reliance.
 *   [Leonardo.Ai](https://leonardo.ai/): An AI-powered platform for generating high-quality images, game assets, and design content using text prompts, trained models, and fine-tuned visual styles.
 *   [Linkeddit](https://www.linkeddit.com/): It helps you find your next customers on Reddit by creating custom AI agents that scrape Reddit for users ready to buy.
