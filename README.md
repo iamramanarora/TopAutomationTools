@@ -65,6 +65,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 
 ### Design
 
+*   [AI Anime](https://aianime.io/): AI Anime Generator.
 *   [AI Timeline Generator](https://venngage.com/ai-tools/timeline-generator): Turn ideas into stunning timelines in seconds—powered by smart AI
 *   [AI Flyer Generator](https://venngage.com/ai-tools/flyer-generator): Create professional flyers instantly with AI using simple text prompts.
 *   [Audacity](https://www.audacityteam.org/): A free, open-source audio editor and recorder used for recording, editing, mixing, and mastering sound on Windows, macOS, and Linux.
