@@ -143,6 +143,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [TestComplete](https://smartbear.com/product/testcomplete/): Flexible automation for mobile, web, and desktop apps, catering to all skill levels with secure, efficient testing workflows.
 *   [Testim.io](https://www.testim.io/): AI-powered automated testing platform for web, mobile, and Salesforce apps, offering fast authoring and unmatched stability.
 *   [Testsigma](https://testsigma.com/): An AI-powered, no-code test automation platform for web, mobile, API, and ERP testing, designed to accelerate testing lifecycles.
+*   [TestSprite](https://www.testsprite.com/): The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.
 *   [Tiptap](https://tiptap.dev/tiptap-editor-v3): Tiptap Editor 3.0 Beta: Enhanced TypeScript, server-side rendering, JSX support, and more for developers seeking customizable open-source solutions.
 *   [Tricentis Tosca](https://www.tricentis.com/products/automate-continuous-testing-tosca): AI-powered, codeless test automation for end-to-end testing across diverse apps, accelerating releases and reducing risks.
 *   [Unveil](https://unveilengine.com/): A beginner-friendly game engine with a built-in AI assistant for effortless 2D and 3D world creation.
