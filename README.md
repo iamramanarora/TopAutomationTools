@@ -19,6 +19,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 ### AI & Machine Learning
 
 *   [Agent Security](https://agentsecurity.com): Security for AI agents.
+*   [AI Image to Text](https://aiimagetotext.com/): Image to Text converts images into editable text.
 *   [AI Plagiarism Checker](https://aiplagiarismchecker.io/): Ensure originality in your writing with our powerful plagiarism checker.
 *   [Amino: Supplement Scanner](https://aminohealth.app/): AI-powered supplement scanner and tracker for clean, safe choices.
 *   [App Reply](https://appreply.co/): AI-powered platform for automating app store review responses, saving support time and improving app ratings and user retention.
