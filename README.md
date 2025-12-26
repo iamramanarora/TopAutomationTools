@@ -306,6 +306,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Tabs Magic](https://tabsmagic.com/): Effortlessly manage Chrome tabs with visual drag-and-drop organization, color coding, and custom naming for a tidy workspace.
 *   [Taskade](https://www.taskade.com/): An AI-powered platform for building, training, and deploying AI agents to automate tasks and enhance team collaboration.
 *   [Tax Refund Calculator](https://taxrefund.pro/): A free online US tax calculator.
+*   [TaxTools AI](https://taxtools.ai/cn): AI Tax Tools.
 *   [Transkriptor](https://transkriptor.com/): An AI-powered service for audio and video transcription, offering 99% accuracy in 100+ languages with fast turnaround.
 *   [TranslateAir](https://www.translateair.com/): AI-powered translation & OCR tool for macOS. Instantly translate text from any app, website, or document.
 *   [Verve](https://verve.projectv.uk/): An AI-powered note-taking app for productivity, knowledge base creation, and creative organization, featuring AI chatbot and quick capture.
