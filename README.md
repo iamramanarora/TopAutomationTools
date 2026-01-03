@@ -233,6 +233,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Sender](https://www.sender.net/): It offers an effortless email marketing experience with a free plan for 15,000 monthly emails and 24/7 support.
 *   [Serpstat](https://serpstat.com/): A powerful SEO and content marketing tool for backlinks analysis, rank tracking, keyword research, competitor analysis, and site audit.
 *   [Slick Text](https://www.slicktext.com/): It simplifies SMS marketing with tools for audience growth, personalized messaging, automation, and in-depth analytics.
+*   [Soro](https://trysoro.com/): SEO Autopilot & Content Writer.
 *   [StoryChief](https://www.storychief.io/): An all-in-one content management platform that helps content teams collaborate and distribute content faster across multiple platforms.
 *   [Submagic](https://www.submagic.co/): It uses AI to generate captions, b-rolls, and smart edits for short-form videos, saving time and boosting social media reach.
 *   [Surfer](https://surferseo.com/): An AI-powered platform for SEO content optimization, research, auditing, and generating high-ranking articles.
