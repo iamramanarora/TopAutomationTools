@@ -39,6 +39,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Querri](https://querri.ai/): AI-powered data platform that makes data insights ridiculously easy using natural language queries and automated reports.
 *   [Retool](https://retool.com/): A unified platform to build internal tools with AI, connecting to any database, API, or LLM for streamlined business operations.
 *   [Sagehood](https://sagehood.ai/): It analyzes billions of data points, transforming complex information into actionable insights for investment goals using AI.
+*   [Socratic App](https://socraticapp.com/): AI homework helper that teaches students like a tutor.
 *   [Statstream AI](https://www.statstream.ai/): An AI-powered tool that analyzes user feedback, support tickets, and survey data to generate product insights and guide roadmap decisions.
 *   [Studyaura.app](https://www.studyaura.app): Turn PDFs into Viral Study Material.
 *   [TaxTip.ai](https://taxtip.ai/): Global Tax Intelligence Platform.
