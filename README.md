@@ -301,6 +301,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Rysa AI](https://www.rysa.ai): AI GTM Automation Agent.
 *   [Salary Calculator](https://salary-calculator.ai/): Salary-Calculator.ai helps you compare net salaries worldwide instantly
 *   [Schedodo](https://schedodo.com/): An AI-powered note-taking tool that transforms audio into actionable notes, flashcards, and study guides.
+*   [SENTENCIFY](https://www.sentencify.ai/en/): AI Free Paraphrasing Tool.
 *   [Shadow](https://www.shadow.do/): It transforms meetings into actionable results with AI-powered transcription, note-taking, and automated follow-ups, enhancing team productivity.
 *   [Shhshot](https://shhshot.space/): Automatically detects and blurs sensitive data in screenshots, ensuring privacy and a smooth, focused workflow for secure sharing.
 *   [Silver Pennies](https://www.silverpennies.info/): An AI agent that automatically tracks your debits and credits from your emails, providing AI-powered financial insights.
