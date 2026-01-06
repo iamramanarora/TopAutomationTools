@@ -298,6 +298,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Raindrop.io](https://raindrop.io/): A modern bookmarking tool that lets users collect, organize, and share links in a visually rich and intuitive interface.
 *   [Raycast](https://www.raycast.com/): It is a blazingly fast, extensible launcher that lets you complete tasks, calculate, share common links and much more.
 *   [Reclaim](https://reclaim.ai/): An AI-powered calendar app that creates 40% more time for teams by auto-scheduling tasks, habits, meetings, and breaks.
+*   [Reverse Image Search Tools](https://chromewebstore.google.com/detail/reverse-image-search-tool/hccicgceahocikgncfihpmkjamfpacpg): Search the web using any image.
 *   [Rysa AI](https://www.rysa.ai): AI GTM Automation Agent.
 *   [Salary Calculator](https://salary-calculator.ai/): Salary-Calculator.ai helps you compare net salaries worldwide instantly
 *   [Schedodo](https://schedodo.com/): An AI-powered note-taking tool that transforms audio into actionable notes, flashcards, and study guides.
