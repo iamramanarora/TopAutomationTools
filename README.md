@@ -73,6 +73,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [AI Flyer Generator](https://venngage.com/ai-tools/flyer-generator): Create professional flyers instantly with AI using simple text prompts.
 *   [Audacity](https://www.audacityteam.org/): A free, open-source audio editor and recorder used for recording, editing, mixing, and mastering sound on Windows, macOS, and Linux.
 *   [BnbIcons](https://bnbicons.com/): Generate custom isometric skeuomorphic icons inspired by Airbnb's design system using AI. Create unique 3D icons in seconds.
+*   [Bulk Mockup](https://www.bulkmockup.com/): Generate 1000+ mockups in 10 minutes with Bulk Mockup.
 *   [Canva](https://www.canva.com/en_in/): A versatile online design platform offering tools for creating graphics, presentations, and documents with a user-friendly interface.
 *   [Creatopy](https://www.creatopy.com/): AI-powered ad generation platform to design, manage, scale, and deliver high-quality, on-brand ad campaigns effortlessly.
 *   [Descript](https://www.descript.com/): AI-powered video and podcast editor. Edit videos and podcasts like a doc with transcription and AI tools.
