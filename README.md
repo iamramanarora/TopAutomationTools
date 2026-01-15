@@ -62,6 +62,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Tapflow](https://www.tapflow.ai/): It enables tech professionals to create and sell digital guides, workflows, and courses, packaging knowledge into revenue streams.
 *   [Timesible](https://timesible.io/): An all-in-one platform for remote teams, offering project management, time tracking, and invoicing in one place.
 *   [Trails](https://trails.so/): The easiest way to document your process
+*   [Tubetranscript](https://www.tubetranscript.com/): YouTube Transcript Generator.
 *   [Vantage Charts](https://monday.com/marketplace/listing/10000927/vantage-charts-): Custom Charts for Monday.com
 
 ---
