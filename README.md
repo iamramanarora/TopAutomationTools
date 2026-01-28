@@ -194,6 +194,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Customer.io](https://customer.io/): It is a data-driven platform for personalized customer journeys across all channels, fueled by first-party data and AI.
 *   [Dashly](https://www.dashly.io/): It is a conversational marketing platform that helps businesses grow revenue, increase sales, and automate support with AI-powered tools.
 *   [DataFeedWatch](https://www.datafeedwatch.com/): A data feed management platform that helps e-commerce businesses optimize product feeds for 2000+ channels, improving campaign performance.
+*   [dnAI](https://humandnai.com/): Brand-first AI marketing platform.
 *   [ExpertSender](https://expertsender.com/): AI-powered omnichannel marketing automation platform for e-commerce, offering personalization, data analytics, and multi-channel communication.
 *   [FeedOtter](https://www.feedotter.com/): It automates newsletter creation, saving publishers time by streamlining content integration with existing email platforms.
 *   [Flowcart](https://flowcart.ai/): Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp.
