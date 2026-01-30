@@ -91,6 +91,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Snapdeck](https://www.snapdeck.app/): Figma plugin that generates slides from your designs using AI, enabling fast and customizable presentation creation.
 *   [eSelf](https://www.eself.ai/): Design lifelike AI avatars & video chatbots in 30+ languages to scale your business and boost engagement with innovative video tools.
 *   [Video Watermark Remover](https://videowatermarkremover.ai/): Remove video watermarks online for free.
+*   [AI Image Generator](https://venngage.com/ai-tools/image-generator): Go from concept to custom AI-generated images in just a few clicks.
 
 ---
 
