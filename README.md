@@ -328,6 +328,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Vibot](https://vibot.projectv.uk/): An AI-powered chatbot platform offering multiple models and personalities for enhanced customer engagement and support.
 *   [Vidocu](https://vidocu.ai/): Turn screen recordings into professional videos and documentation.
 *   [Voibe](https://www.getvoibe.com): Fast, private, on device AI voice dictation app for Mac.
+*   [Word Cloud Generator](https://chromewebstore.google.com/detail/word-cloud-generator/ohdkpdnmamkdpmbcenpohkjhkmhnnfkf): Create word clouds from text.
 *   [Worklytics](https://www.worklytics.co/): Analytics on AI and Productivity.
 *   [remio](https://www.remio.ai/): An AI productivity assistant that captures, organizes, and helps utilize information securely on your device, enhancing workflow.
 *   [X-doc AI](https://x-doc.ai/): The most accurate AI translator
