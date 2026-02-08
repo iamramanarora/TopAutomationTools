@@ -76,6 +76,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [AI Flyer Generator](https://venngage.com/ai-tools/flyer-generator): Create professional flyers instantly with AI using simple text prompts.
 *   [AI Grant Proposal Generator](https://venngage.com/ai-tools/grant-proposal-generator): Create clear, well-structured grant proposals with AI.
 *   [AI Graph Generator](https://venngage.com/ai-tools/graph-generator): Turn raw data into clear, AI-generated graphs in seconds.
+*   [AI Instagram Post Generator](https://venngage.com/ai-tools/instagram-post-generator): Create consistent, high-quality Instagram posts with AI.
 *   [Audacity](https://www.audacityteam.org/): A free, open-source audio editor and recorder used for recording, editing, mixing, and mastering sound on Windows, macOS, and Linux.
 *   [BnbIcons](https://bnbicons.com/): Generate custom isometric skeuomorphic icons inspired by Airbnb's design system using AI. Create unique 3D icons in seconds.
 *   [Bulk Mockup](https://www.bulkmockup.com/): Generate 1000+ mockups in 10 minutes with Bulk Mockup.
