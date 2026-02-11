@@ -238,6 +238,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [PropFuel](https://www.propfuel.com/): It personalizes member engagement for associations, using conversational AI to improve insight, engagement, and retention.
 *   [PulpMiner](https://www.pulpminer.com/): It converts any webpage into a clean, structured real time JSON API using AI, enabling automation and no-code app development.
 *   [Reviewradar](https://reviewradar.ai/): It helps you quickly understand user needs by analyzing reviews and feedback to identify key insights and improve your product.
+*   [Say About Us](https://sayabout.us/): Collect unlimited video and text testimonials.
 *   [SE Ranking](https://seranking.com/): A robust SEO software offering accurate data, intuitive dashboards, and hassle-free reporting at an affordable price.
 *   [SEO PowerSuite](https://www.link-assistant.com/): It offers an all-in-one SEO toolkit for keyword research, rank tracking, backlink analysis, on-page optimization, and reporting.
 *   [SEO Stack](https://www.seo-stack.io/): AI SEO toolset and GSC replacement designed to enhance website optimization and provide actionable insights.
