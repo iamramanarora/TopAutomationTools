@@ -60,6 +60,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
+*   [Redii](https://www.redii.co/): Retirement benefits for your global workforce.
 *   [Receipts Maker](https://receiptsmaker.com): Online receipt generator.
 *   [SimplePerf](https://buddieshr.com/simpleperf): A simple, guided 360° performance review tool made for small teams.
 *   [Tapflow](https://www.tapflow.ai/): It enables tech professionals to create and sell digital guides, workflows, and courses, packaging knowledge into revenue streams.
