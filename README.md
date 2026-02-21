@@ -77,6 +77,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [AI Book Cover Generator](https://venngage.com/ai-tools/book-cover-generator): Design eye-catching book covers with AI.
 *   [AI Contract Generator](https://venngage.com/ai-tools/ai-contract-generator): Create clear, reliable contracts with AI.
 *   [AI Timeline Generator](https://venngage.com/ai-tools/timeline-generator): Turn ideas into stunning timelines in seconds—powered by smart AI
+*   [AI Facebook Ad Generator](https://venngage.com/ai-tools/facebook-ad-generator): Create tailored Facebook ads with AI in seconds.
 *   [AI Flowchart Generator](https://venngage.com/ai-tools/flowchart-generator): Turn ideas into clear, structured AI flowcharts.
 *   [AI Flyer Generator](https://venngage.com/ai-tools/flyer-generator): Create professional flyers instantly with AI using simple text prompts.
 *   [AI Grant Proposal Generator](https://venngage.com/ai-tools/grant-proposal-generator): Create clear, well-structured grant proposals with AI.
