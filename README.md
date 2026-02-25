@@ -91,6 +91,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Canva](https://www.canva.com/en_in/): A versatile online design platform offering tools for creating graphics, presentations, and documents with a user-friendly interface.
 *   [Creatopy](https://www.creatopy.com/): AI-powered ad generation platform to design, manage, scale, and deliver high-quality, on-brand ad campaigns effortlessly.
 *   [Descript](https://www.descript.com/): AI-powered video and podcast editor. Edit videos and podcasts like a doc with transcription and AI tools.
+*   [Ecommerce Design](https://ecomm.design/): Curated gallery of 4,000+ ecommerce website designs for inspiration.
 *   [ForgePPT](https://forgeppt.com/): An AI-powered presentation generator that creates professional PowerPoint presentations in seconds, saving users hours of design work.
 *   [GenDesigns](https://gendesigns.ai/): AI Mobile App Design Generator.
 *   [GenPPT](https://genppt.com/): An AI-powered presentation generator that creates professional PowerPoint presentations in seconds, saving users time and effort.
