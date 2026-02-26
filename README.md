@@ -366,6 +366,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Fountain India](https://www.fountain.com/in/fountain-india): It streamlines high-volume hiring with AI-powered automation, mobile-first solutions, and multilingual support for diverse industries.
 *   [Gloroots](https://www.gloroots.com/): From hire to payroll—Gloroots powers your global team.
 *   [Graph8](https://graph8.com/): An AI-powered platform automating sales development with AI agents for answering calls, engaging on chat, and growing customer base.
+*   [Gro](https://thegro.ai/): AI Sales Agent for B2B Lead Generation.
 *   [HireEZ](https://hireez.com/): An AI-first recruiting platform unifying sourcing, screening, analytics, and internal mobility to streamline hiring processes.
 *   [Hirevue](https://www.hirevue.com/): AI-powered platform validates candidate skills with video interviewing and assessments, transforming hiring strategies for better talent.
 *   [Hublead](https://www.hublead.io/): The best HubSpot LinkedIn Chrome Extension to sync LinkedIn data to HubSpot in 1-click, used by 6,000+ HubSpot customers.
