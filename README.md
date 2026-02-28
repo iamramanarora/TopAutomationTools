@@ -30,6 +30,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Komment](https://www.komment.ai/): It automates software documentation with pipelines that plug into developer workflows, creating reliable docs with zero third-party reliance.
 *   [Leonardo.Ai](https://leonardo.ai/): An AI-powered platform for generating high-quality images, game assets, and design content using text prompts, trained models, and fine-tuned visual styles.
 *   [Linkeddit](https://www.linkeddit.com/): It helps you find your next customers on Reddit by creating custom AI agents that scrape Reddit for users ready to buy.
+*   [Lorea](https://www.lorea.app/): The AI Study Game Generator.
 *   [mealideas](https://mealideas.ai/): AI-powered meal decisions that learn your taste.
 *   [Monity.ai](https://monity.ai/): AI-powered website change monitoring with real-time alerts, data extraction, and automation for businesses and personal use.
 *   [MyDetector](https://mydetector.ai/): Accurate AI Content Detector for ChatGPT and other tools.
