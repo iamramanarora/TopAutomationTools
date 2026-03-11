@@ -25,6 +25,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [App Reply](https://appreply.co/): AI-powered platform for automating app store review responses, saving support time and improving app ratings and user retention.
 *   [Blaze AI](https://www.blaze.ai/): AI-powered marketing tool that generates high-quality content like blogs, posts, and emails in your brand voice, saving time and money.
 *   [Clemta Intelligence](https://clemta.com/intelligence/): An AI-powered business assistant automating bookkeeping, tax prep, and financial reporting for streamlined growth.
+*   [Consul](https://consul.so/): Executive Assistant That Runs Your Calendar, Inbox & Scheduling.
 *   [ExamGPT](https://excelas.ai/): AI Assessment Platform.
 *   [GrammarChecker](https://aigrammarchecker.io/): AI Grammar Checker instantly fixes writing errors.
 *   [Komment](https://www.komment.ai/): It automates software documentation with pipelines that plug into developer workflows, creating reliable docs with zero third-party reliance.
