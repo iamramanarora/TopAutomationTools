@@ -35,6 +35,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Lorea](https://www.lorea.app/): The AI Study Game Generator.
 *   [mealideas](https://mealideas.ai/): AI-powered meal decisions that learn your taste.
 *   [Monity.ai](https://monity.ai/): AI-powered website change monitoring with real-time alerts, data extraction, and automation for businesses and personal use.
+*   [MMIPractice.org](https://www.mmipractice.org/): Free practice questions and AI coaching for MMI prep.
 *   [MyDetector](https://mydetector.ai/): Accurate AI Content Detector for ChatGPT and other tools.
 *   [Nexus](https://www.trynexus.io/): It lets you build and launch custom AI database analyst agents to scale business insights without scaling your payroll.
 *   [PayCalculator](https://paycalculator.ai/): PayCalculator.ai instantly calculates take-home pay with tax breakdowns.
@@ -51,7 +52,6 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Tensorlake](https://www.tensorlake.ai/): AI Data Cloud transforming unstructured data into ingestion-ready formats for AI applications and serverless workflows.
 *   [Wallet Finder AI](https://www.walletfinder.ai/): Defi wallets and tokens analytics information.
 *   [Zolltarifnummer.com](https://www.zolltarifnummer.com/): Find and verify the right 11-digit German customs tariff number.
-*   [MMIPractice.org](https://www.mmipractice.org/): Free practice questions and AI coaching for MMI prep.
 
 ---
 
