@@ -63,6 +63,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
+*   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [Redii](https://www.redii.co/): Retirement benefits for your global workforce.
 *   [Receipts Maker](https://receiptsmaker.com): Online receipt generator.
