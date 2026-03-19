@@ -240,6 +240,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Murf AI](https://murf.ai/): AI voice generator and text to speech software with 200+ voices in 20+ languages for creating realistic AI voiceovers and audio products.
 *   [NiceJob](https://get.nicejob.com/): An all-in-one reputation marketing software that automates review generation, referrals, and social media content for local businesses.
 *   [Odysys](https://www.odysys.com/): It provides website design, SEO, marketing services, and performance analytics for the hospitality industry to book more guests.
+*   [onmediamarket](https://www.onmediamarket.com/): Marketplace platform to connect clients with marketers and creators.
 *   [OpusClip](https://www.opus.pro/): An AI-powered video clipping and editing tool that repurposes long videos into viral short clips for social media.
 *   [OptiMonk](https://www.optimonk.com/): Popup builder to design popups for email, SMS, and product recommendations to boost conversions with personalization and A/B testing.
 *   [Page Optimizer Pro](https://www.pageoptimizer.pro/): A complete on-page SEO and content optimization tool suite designed to create, optimize, and maintain high-performing content for Google.
