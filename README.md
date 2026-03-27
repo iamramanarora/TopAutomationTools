@@ -293,6 +293,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Asana](https://asana.com/lp): AI-powered platform for team work management, connecting tasks to goals, integrating with 300+ apps, and trusted by top companies.
 *   [Audionotes.app](https://www.audionotes.app/): It uses AI to transform voice recordings, text notes, images, audio/video files, and YouTube videos into structured notes.
 *   [BlockSurvey](https://blocksurvey.io/ai-survey-agents): Secure, privacy-focused AI survey tools for effortless creation, analysis, and actionable insights in seconds.
+*   [BorderSense](https://bordersense.xyz/): Precision visa tracker and passport diary.
 *   [CalBot](https://calbotservice.com/beta): An AI calendar assistant designed to streamline appointment scheduling and enhance customer engagement.
 *   [Canary Mail](https://canarymail.io/): An AI-powered email client with integrated calendar, offering features like AI email writing, summarization, and categorization.
 *   [ClickUp](https://clickup.com/lp): An all-in-one productivity platform that centralizes tasks, docs, goals, and communication to help teams manage projects and workflows efficiently.
