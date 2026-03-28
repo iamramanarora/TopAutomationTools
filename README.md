@@ -27,6 +27,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Clemta Intelligence](https://clemta.com/intelligence/): An AI-powered business assistant automating bookkeeping, tax prep, and financial reporting for streamlined growth.
 *   [Consul](https://consul.so/): Executive Assistant That Runs Your Calendar, Inbox & Scheduling.
 *   [ExamGPT](https://excelas.ai/): AI Assessment Platform.
+*   [Forte AI](https://www.forte-ai.com/): The fastest way to automate audio workflows.
 *   [GrammarChecker](https://aigrammarchecker.io/): AI Grammar Checker instantly fixes writing errors.
 *   [Komment](https://www.komment.ai/): It automates software documentation with pipelines that plug into developer workflows, creating reliable docs with zero third-party reliance.
 *   [Leonardo.Ai](https://leonardo.ai/): An AI-powered platform for generating high-quality images, game assets, and design content using text prompts, trained models, and fine-tuned visual styles.
