@@ -64,6 +64,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Flipdish](https://www.flipdish.com/): It provides an all-in-one restaurant POS and online ordering solution, simplifying restaurant management and boosting efficiency.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
+*   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
 *   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
