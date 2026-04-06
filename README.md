@@ -427,6 +427,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Planable](https://planable.io/): A social media management tool for planning, collaborating, approving, and scheduling social media posts.
 *   [Planoly](https://www.planoly.com/): A social media planner and management tool empowering creators to schedule posts, manage accounts, and organize content.
 *   [Postel](https://www.postel.app/): An AI-powered X (Twitter) tool for creators and businesses to create engaging content and grow their brand.
+*   [PostPeer](https://www.postpeer.dev/): Social media posting API for cross-platform posting and scheduling.
 *   [Postiz](https://postiz.com/): Postiz is an all-in-one social media management tool to streamline scheduling, analyze performance, and manage accounts in one place.
 *   [Publer](https://publer.com/): It is a social media management tool with scheduling, analytics, collaboration, and automation tools for businesses and marketing teams.
 *   [RecurPost Pinterest Scheduler](https://recurpost.com/best-pinterest-scheduler/): It automates pin scheduling, offers AI content creation, and provides in-depth analytics for smart automation.
