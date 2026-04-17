@@ -246,6 +246,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Odysys](https://www.odysys.com/): It provides website design, SEO, marketing services, and performance analytics for the hospitality industry to book more guests.
 *   [onmediamarket](https://www.onmediamarket.com/): Marketplace platform to connect clients with marketers and creators.
 *   [OpusClip](https://www.opus.pro/): An AI-powered video clipping and editing tool that repurposes long videos into viral short clips for social media.
+*   [PopcornAI](https://popcornai.art/): AI video and image generator for short-form creative, launch visuals, and campaign-ready social content for creators and marketers.
 *   [OptiMonk](https://www.optimonk.com/): Popup builder to design popups for email, SMS, and product recommendations to boost conversions with personalization and A/B testing.
 *   [Page Optimizer Pro](https://www.pageoptimizer.pro/): A complete on-page SEO and content optimization tool suite designed to create, optimize, and maintain high-performing content for Google.
 *   [Pin Generator](https://pingenerator.com/): Generate Pinterest pins quickly for eCommerce, blogs, and affiliate marketing, with keyword tools and a content scheduler to optimize your reach.
