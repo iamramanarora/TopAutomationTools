@@ -323,6 +323,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Night Mode](https://chromewebstore.google.com/detail/night-mode/ocjndlfidedijchleaiegckngmpcpjga): Night mode for Chrome: dark theme, yellow filter & text resize.
 *   [Nodeflow AI](https://get.nodeflowai.com/): A visual workspace powered by AI to organize and analyze content from YouTube, PDFs, websites, and more.
 *   [NoteGPT](https://notegpt.com/): AI note-taking app that records, transcribes, and summarizes lectures.
+*   [notetime](https://www.notetimeapp.com/): note taking app with automatic timestamps.
 *   [Notion](https://www.notion.com/): An all-in-one AI workspace that combines note-taking, project management, and collaboration into a single, flexible platform.
 *   [PDF.ai](https://pdf.ai/): An AI-powered ChatPDF app that allows users to chat with PDF documents, ask questions, get summaries, and find information.
 *   [Paste](https://pasteapp.io/paste-5): A collaborative clipboard manager with shared pinboards, improved performance, and enhanced productivity features for teams.
