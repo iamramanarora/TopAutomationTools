@@ -66,6 +66,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
+*   [MyndField](https://myndfield.ai/): World's First Decision Engine.
 *   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
 *   [Packgine](https://packgine.ai/): Instant packaging analysis and environmental compliance reports.
 *   [Redii](https://www.redii.co/): Retirement benefits for your global workforce.
