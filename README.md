@@ -217,6 +217,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Connectif](https://connectif.ai/): It automates marketing actions for eCommerce with AI, offering personalized customer experiences and data-driven insights.
 *   [Content Harmony](https://www.contentharmony.com/): It helps content teams streamline keyword research, content briefs, and content optimization with AI-driven workflows.
 *   [Conversion AI](https://conversion.ai/): It maximizes ROI with AI-driven marketing agents for SEO & Google Ads, automating B2B email nurture sequences and marketing workflows.
+*   [CrawlRaven](https://www.crawlraven.com/): Professional SEO audits with 200+ checks and prioritized fixes.
 *   [Creatify](https://creatify.ai/features/product-video): It turns product images into engaging marketing videos, scaling content creation for e-commerce brands.
 *   [CreatorKit](https://creatorkit.com/ai-avatar-video): Create hyperrealistic AI Avatar videos with natural gestures and perfect lip-sync, no training required, in minutes with CreatorKit.
 *   [Customer.io](https://customer.io/): It is a data-driven platform for personalized customer journeys across all channels, fueled by first-party data and AI.
