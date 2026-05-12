@@ -152,6 +152,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Leapwork](https://www.leapwork.com/): AI-powered codeless test automation platform for building, managing, and scaling end-to-end automated testing.
 *   [Lingo.dev](https://lingo.dev/en): It automates AI localization for web & mobile apps, integrating directly into CI/CD pipelines for faster, more frequent releases.
 *   [Mockoon](https://mockoon.com/): A free, open-source, cross-platform tool to create mock REST API servers in seconds, without remote deployment or accounts.
+*   [Nearbase](https://nearbase.dev/): Affordable managed Postgres in Asia.
 *   [Ollama's New Multimodal Engine](https://ollama.com/blog/multimodal-models): A new engine for multimodal models, enabling local inference for vision and other modalities with improved accuracy and reliability.
 *   [Omnara](https://www.omnara.com/): Command Center for AI Coding Agents.
 *   [OSINT Researcher](https://osintresearcher.com/): Explore GitHub orgs & repos.
