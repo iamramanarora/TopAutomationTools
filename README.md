@@ -66,6 +66,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
+*   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
 *   [MyndField](https://myndfield.ai/): World's First Decision Engine.
 *   [OctoStream](https://www.octostream.com/): IP Camera Streaming Service.
