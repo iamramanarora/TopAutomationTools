@@ -274,6 +274,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [SendPulse](https://sendpulse.com/): It is a multi-channel marketing automation platform with tools for email, chatbots, SMS, web push, CRM, and landing pages.
 *   [Sender](https://www.sender.net/): It offers an effortless email marketing experience with a free plan for 15,000 monthly emails and 24/7 support.
 *   [Serpstat](https://serpstat.com/): A powerful SEO and content marketing tool for backlinks analysis, rank tracking, keyword research, competitor analysis, and site audit.
+*   [Slate](https://slatehq.com/): Automation platform for SEO, Web and Content Teams.
 *   [Slick Text](https://www.slicktext.com/): It simplifies SMS marketing with tools for audience growth, personalized messaging, automation, and in-depth analytics.
 *   [Soro](https://trysoro.com/): SEO Autopilot & Content Writer.
 *   [StoryChief](https://www.storychief.io/): An all-in-one content management platform that helps content teams collaborate and distribute content faster across multiple platforms.
