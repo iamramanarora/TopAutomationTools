@@ -341,6 +341,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Podlettr](https://www.podlettr.com/): It delivers AI-generated podcast summaries to your inbox weekly, saving you time and keeping you informed about your favorite shows.
 *   [Podtastic](https://podtastic.app/): Podtastic is a podcast player powered by Pod-telligence.
 *   [Pretty Prompt](https://www.pretty-prompt.com/): An AI-powered tool that helps users create perfect prompts for better AI results, acting as a Grammarly for prompting.
+*   [PromptPlanner](https://promptplanner.app/): Prompt manager for Mac to organize, schedule, and copy reusable AI prompts.
 *   [QR Code Reader](https://chromewebstore.google.com/detail/qr-code-reader/fmjmpddidbamnkaghgjjjcpfmcnplpoe?hl=en): Scan QR code from page, image or camera.
 *   [Raindrop.io](https://raindrop.io/): A modern bookmarking tool that lets users collect, organize, and share links in a visually rich and intuitive interface.
 *   [Ration](https://ration.mayutic.com/): AI-Powered Pantry & Meal Planning Platforms.
