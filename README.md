@@ -153,6 +153,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [LambdaTest](https://www.lambdatest.com/): AI and cloud-powered unified testing platform for intelligent software testing, faster deployment, and scalable digital experiences.
 *   [Leapwork](https://www.leapwork.com/): AI-powered codeless test automation platform for building, managing, and scaling end-to-end automated testing.
 *   [Lingo.dev](https://lingo.dev/en): It automates AI localization for web & mobile apps, integrating directly into CI/CD pipelines for faster, more frequent releases.
+*   [Lucebox](https://www.lucebox.com/): The computer for local AI.
 *   [Mockoon](https://mockoon.com/): A free, open-source, cross-platform tool to create mock REST API servers in seconds, without remote deployment or accounts.
 *   [Nearbase](https://nearbase.dev/): Affordable managed Postgres in Asia.
 *   [Ollama's New Multimodal Engine](https://ollama.com/blog/multimodal-models): A new engine for multimodal models, enabling local inference for vision and other modalities with improved accuracy and reliability.
