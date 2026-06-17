@@ -138,6 +138,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Cucumber](https://cucumber.io/): It is a tool for running automated acceptance tests written in plain language, improving team communication and collaboration.
 *   [Daytona](https://www.daytona.io/): It provides secure infrastructure for running AI-generated code, offering fast environment creation and enterprise-grade security.
 *   [Docker](https://www.docker.com/): A platform for developers to build, share, and run containerized applications consistently across any environment.
+*   [Domainee](https://domainee.dev/): Custom Domains & Domain Purchasing API for SaaS.
 *   [Espresso](https://developer.android.com/training/testing/espresso): An Android UI testing framework for writing concise, beautiful, and reliable UI tests.
 *   [Framer Workshop](https://www.framer.com/workshop): Generate custom, editable Framer components with AI, enabling fast prototyping and production-ready results without coding.
 *   [Flutter](https://flutter.dev/): An open-source UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
