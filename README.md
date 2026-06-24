@@ -449,6 +449,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [SocialBu](https://socialbu.com/): A social media management and automation tool for scheduling, publishing, responding, analyzing, and collaborating.
 *   [SocialPilot](https://socialpilot.co): It is a social media scheduling and management tool for agencies and brands to grow their presence.
 *   [Tailwind](https://www.tailwindapp.com/): A Pinterest marketing tool with Pin scheduling, content creation, and bulk editing tools. Start with a free forever plan.
+*   [Tuku](https://tuku.co/): TikTok comment-to-DM automation for SEA creators & merchants.
 *   [Twittimer](https://twittimer.com/): A social media management tool that allows users to schedule posts on Twitter, Facebook, and LinkedIn to automate their social media presence.
 *   [Typefully](https://typefully.com/): A social media tool for creators and businesses to create, schedule, and publish posts on multiple platforms, with analytics and automation.
 
