@@ -326,6 +326,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Inbox2Action](https://inbox2action.com): Turn Emails into Tasks in Seconds.
 *   [Inkr](https://inkr.app/): An AI-powered transcription tool that converts audio and video to text, offering fast, accurate, and searchable transcripts.
 *   [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper): It transcribes audio files to text using OpenAI's Whisper and Nvidia Parakeet, offering fast, accurate, on-device transcription.
+*   [Mail Genie](https://mailgenie.io/): Clean your inbox by unsubscribing from newsletters and marketing emails.
 *   [Manus](https://manus.im/login): An AI assistant designed to turn ideas into actions, streamlining tasks in both work and personal life.
 *   [Mathos AI](https://www.mathgptpro.com/): The best AI math solver, calculator and tutor
 *   [Mem](https://get.mem.ai/): An AI-powered note-taking app designed to organize information and enhance productivity for busy professionals.
