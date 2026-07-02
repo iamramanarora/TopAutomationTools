@@ -233,6 +233,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [FeedOtter](https://www.feedotter.com/): It automates newsletter creation, saving publishers time by streamlining content integration with existing email platforms.
 *   [Flowcart](https://flowcart.ai/): Flowcart helps B2C brands acquire, convert, retain customers on WhatsApp.
 *   [Frase](https://frase.io/): An AI-powered SEO content optimization tool that helps content creators research, write, and optimize high-ranking articles faster.
+*   [GetAppNiche](https://getappniche.com/): iOS app market intelligence for revenue estimates, ASO keywords, competitor ads, reviews, and niche research.
 *   [GetResponse](https://www.getresponse.com/): An email marketing and automation platform with AI features, landing pages, and tools to grow your audience and sales.
 *   [Groups Watcher](https://www.groupswatcher.com/): Monitor Facebook groups for leads and brand mentions. Alerts in 60 sec.
 *   [Hooked AI](https://hookedai.ai/): HookedAI - AI-Powered LinkedIn Marketing.
