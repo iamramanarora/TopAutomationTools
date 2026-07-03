@@ -370,6 +370,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Tax Refund Calculator](https://taxrefund.pro/): A free online US tax calculator.
 *   [TaxTools AI](https://taxtools.ai/cn): AI Tax Tools.
 *   [Text Zen - Text Expander](https://www.textzen.app/): Save time with web Text Expander shortcuts and power auto text snippets.
+*   [Timesheet AI-OCR](https://www.timesheet-ocr.com/): OCR built for paper attendance forms.
 *   [Transkriptor](https://transkriptor.com/): An AI-powered service for audio and video transcription, offering 99% accuracy in 100+ languages with fast turnaround.
 *   [TranslateAir](https://www.translateair.com/): AI-powered translation & OCR tool for macOS. Instantly translate text from any app, website, or document.
 *   [Verve](https://verve.projectv.uk/): An AI-powered note-taking app for productivity, knowledge base creation, and creative organization, featuring AI chatbot and quick capture.
