@@ -205,6 +205,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [AirOps](https://www.airops.com/): It helps marketers build powerful LLM workflows that combine data, GPT-4, Claude, and Gemini to drive real growth in their business.
 *   [Airpost](https://airpost.ai/): AI-powered video ad creation platform with creative strategists, offering enterprise-grade UGC video ads for growth marketers.
 *   [Alli AI](https://www.alliai.com/): AI SEO tool for marketing agencies and enterprises. Automate SEO tasks, improve efficiency, and achieve higher rankings.
+*   [AnswerLens](https://app.sfdj.net/): Audits B2B SaaS public website evidence for pricing, proof, docs, comparison, trust, schema, and `llms.txt` gaps.
 *   [Appark](https://appark.ai/en): Free app market analytics for growth and competition insights.
 *   [AppStore Tracker](https://appstoretracker.com/): An open AppStore Explorer.
 *   [Attentive](https://www.attentive.com/): AI-powered SMS and email marketing platform that helps businesses deliver personalized customer experiences.
