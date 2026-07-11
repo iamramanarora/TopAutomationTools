@@ -63,6 +63,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [ERP Pilot](https://www.erp-pilot.com/): Independent ERP Comparison Tool.
 *   [ExecHeadshots](https://execheadshots.com/): AI Headshot Generator for Professional Headshots.
 *   [Flipdish](https://www.flipdish.com/): It provides an all-in-one restaurant POS and online ordering solution, simplifying restaurant management and boosting efficiency.
+*   [FlowRunner](https://flow-runner.com/): FlowRunner runs your Salesforce Screen Flows inside Outlook and Gmail.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
