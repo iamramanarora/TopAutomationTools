@@ -82,6 +82,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Trails](https://trails.so/): The easiest way to document your process
 *   [Tubetranscript](https://www.tubetranscript.com/): YouTube Transcript Generator.
 *   [Vantage Charts](https://monday.com/marketplace/listing/10000927/vantage-charts-): Custom Charts for Monday.com
+*   [Vaultion](https://vaultion.org/): Non-custodial auto crypto escrow with Kleros arbitration
 
 ---
 
