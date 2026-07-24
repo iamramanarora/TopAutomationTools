@@ -66,6 +66,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [FlowRunner](https://flow-runner.com/): FlowRunner runs your Salesforce Screen Flows inside Outlook and Gmail.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
+*   [Insider Trade Alerts](https://insidertradealerts.com/): Alerts users for SEC Form 4 Insider Trading Activity.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
