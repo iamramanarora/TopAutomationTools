@@ -112,6 +112,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [ForgePPT](https://forgeppt.com/): An AI-powered presentation generator that creates professional PowerPoint presentations in seconds, saving users hours of design work.
 *   [GenDesigns](https://gendesigns.ai/): AI Mobile App Design Generator.
 *   [GenPPT](https://genppt.com/): An AI-powered presentation generator that creates professional PowerPoint presentations in seconds, saving users time and effort.
+*   [Gixo Prism](https://gixo.ai/prism): AI Charts, Diagrams, And Infographics That Stay Data-Exact.
 *   [Kosmik](https://www.kosmik.app/): Create moodboards in seconds with AI.
 *   [Lineicons](https://lineicons.com/): It offers 26082+ free and premium line icons in various formats (SVG, PNG, React, Figma) with CDN and customization options for designers and developers.
 *   [Mangaka](https://mangaka.app/): An AI-powered tool that transforms scripts into manga-style illustrations, enabling users to create visual narratives effortlessly.
