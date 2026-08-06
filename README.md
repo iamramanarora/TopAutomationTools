@@ -300,6 +300,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [ZeroBounce](https://www.zerobounce.net/): It offers email validation, list cleaning, and deliverability tools to improve email marketing ROI and sender reputation.
 *   [cognitiveSEO](https://cognitiveseo.com/): It tool provides backlink analysis, content audit, rank tracking, and site audit for increased traffic and improved rankings.
 *   [seoClarity](https://www.seoclarity.net/): AI-driven SEO platform for enterprises and agencies, offering insights and content optimization for customer journey.
+*   [Flypost](https://www.flypost.io/) - AI LinkedIn Content Studio.
 
 ---
 
