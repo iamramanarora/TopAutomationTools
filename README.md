@@ -29,6 +29,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Consul](https://consul.so/): Executive Assistant That Runs Your Calendar, Inbox & Scheduling.
 *   [ExamGPT](https://excelas.ai/): AI Assessment Platform.
 *   [Forte AI](https://www.forte-ai.com/): The fastest way to automate audio workflows.
+*   [Gixo Folio](https://gixo.ai/folio): AI Book Studio That Turns Your Existing Expertise Into A Finished Book.
 *   [Gixo Quill](https://gixo.ai/quill): AI SEO Content Writer With Cited Sources.
 *   [GrammarChecker](https://aigrammarchecker.io/): AI Grammar Checker instantly fixes writing errors.
 *   [Komment](https://www.komment.ai/): It automates software documentation with pipelines that plug into developer workflows, creating reliable docs with zero third-party reliance.
