@@ -442,6 +442,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 
 ### Social Media
 
+*   [AlphaStamp](https://www.alphastamp.art/): Be the first to imprint undiscovered creators.
 *   [Buffer](https://buffer.com/): It is a social media management platform for scheduling, publishing, and analyzing content across various social channels.
 *   [Circleboom](https://circleboom.com/): Circleboom is a social media management tool that enables users, brands, and SMBs to grow and strengthen their social accounts with ease.
 *   [Coso.ai](https://coso.ai/): An AI-powered social media co-pilot that automatically generates engaging content tailored to your brand and social trends.
