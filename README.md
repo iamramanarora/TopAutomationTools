@@ -135,6 +135,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 ### Development & Testing
 
 *   [ACCELQ](https://www.accelq.com/): AI-powered codeless test automation platform for web, mobile, API, desktop, and packaged applications.
+*   [Agent QA](https://github.com/vostride/agent-qa): The open-source self-improving QA agent for running natural-language tests across web and mobile applications.
 *   [Apache JMeter](https://jmeter.apache.org/): An open-source Java application designed for load testing and performance measurement of applications and web services.
 *   [Appium](https://appium.io/docs/en/latest/): An open-source tool for automating native, mobile web, and hybrid applications on various platforms.
 *   [Appwrite](https://appwrite.io/products/sites): An open-source Vercel alternative for deploying web apps directly from Appwrite, offering scalability and backend integration.
