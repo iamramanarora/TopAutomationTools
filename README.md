@@ -68,6 +68,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Flipdish](https://www.flipdish.com/): It provides an all-in-one restaurant POS and online ordering solution, simplifying restaurant management and boosting efficiency.
 *   [FlowRunner](https://flow-runner.com/): FlowRunner runs your Salesforce Screen Flows inside Outlook and Gmail.
 *   [Freqens](https://www.freqens.com/): Intelligent Platform for Software Purchasing.
+*   [Gigpie](https://gigpie.com/): Scheduling, billing, payroll, and CRM for education businesses.
 *   [Gixo Business](https://gixo.ai/business): AI Decision Support That Turns Messy Context Into Board-Ready Briefs.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [Insider Trade Alerts](https://insidertradealerts.com/): Alerts users for SEC Form 4 Insider Trading Activity.
