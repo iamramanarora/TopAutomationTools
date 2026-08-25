@@ -95,6 +95,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 ### Design
 
 *   [AI Anime](https://aianime.io/): AI Anime Generator.
+*   [AI Banner Generator](https://venngage.com/ai-tools/banner-generator): Turn a prompt into an on-brand, ready-to-share banner with AI.
 *   [AI Book Cover Generator](https://venngage.com/ai-tools/book-cover-generator): Design eye-catching book covers with AI.
 *   [AI Catalog Generator](https://venngage.com/ai-tools/catalog-generator): Turn a prompt into a branded, ready-to-share product catalog with AI.
 *   [AI Contract Generator](https://venngage.com/ai-tools/ai-contract-generator): Create clear, reliable contracts with AI.
