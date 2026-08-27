@@ -385,6 +385,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Taskade](https://www.taskade.com/): An AI-powered platform for building, training, and deploying AI agents to automate tasks and enhance team collaboration.
 *   [Tax Refund Calculator](https://taxrefund.pro/): A free online US tax calculator.
 *   [TaxTools AI](https://taxtools.ai/cn): AI Tax Tools.
+*   [TeamBrain](https://teambrain.co/): Shared workspace for AI teams.
 *   [Text Zen - Text Expander](https://www.textzen.app/): Save time with web Text Expander shortcuts and power auto text snippets.
 *   [Timesheet AI-OCR](https://www.timesheet-ocr.com/): OCR built for paper attendance forms.
 *   [Transkriptor](https://transkriptor.com/): An AI-powered service for audio and video transcription, offering 99% accuracy in 100+ languages with fast turnaround.
