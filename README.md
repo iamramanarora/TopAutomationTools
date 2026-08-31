@@ -340,6 +340,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [ImageMate](https://imagemate.app/): It uses AI to organize your photos with smart tagging, meaningful descriptions, and better file names, working directly on local files.
 *   [Inbox2Action](https://inbox2action.com): Turn Emails into Tasks in Seconds.
 *   [Inkr](https://inkr.app/): An AI-powered transcription tool that converts audio and video to text, offering fast, accurate, and searchable transcripts.
+*   [Loggd](https://loggd.life/): Habit tracker and planner that helps you actually stick with it.
 *   [MacWhisper](https://goodsnooze.gumroad.com/l/macwhisper): It transcribes audio files to text using OpenAI's Whisper and Nvidia Parakeet, offering fast, accurate, on-device transcription.
 *   [Mail Genie](https://mailgenie.io/): Clean your inbox by unsubscribing from newsletters and marketing emails.
 *   [Manus](https://manus.im/login): An AI assistant designed to turn ideas into actions, streamlining tasks in both work and personal life.
