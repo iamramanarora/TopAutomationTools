@@ -201,6 +201,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [TestSprite](https://www.testsprite.com/): The most powerful AI testing tool for testing, fixing, and validating your software in one automated flow.
 *   [Tiptap](https://tiptap.dev/tiptap-editor-v3): Tiptap Editor 3.0 Beta: Enhanced TypeScript, server-side rendering, JSX support, and more for developers seeking customizable open-source solutions.
 *   [Tricentis Tosca](https://www.tricentis.com/products/automate-continuous-testing-tosca): AI-powered, codeless test automation for end-to-end testing across diverse apps, accelerating releases and reducing risks.
+*   [Trackee](https://www.trackee.dev/): SEO & AI visibility, in one API.
 *   [Unveil](https://unveilengine.com/): A beginner-friendly game engine with a built-in AI assistant for effortless 2D and 3D world creation.
 *   [VibeShift](https://github.com/GroundNG/VibeShift): AI-powered security agent for AI coding assistants, automating vulnerability analysis and remediation for secure code development.
 *   [Vibesuite](https://vibesuite.co/): It supercharges your AI coding workflow with instant notifications, sound alerts, and smart tab management for faster coding.
