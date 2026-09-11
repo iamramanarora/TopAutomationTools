@@ -486,6 +486,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 ### Workflow Automation
 
 *   [Flowise](https://flowiseai.com/): An open-source generative AI development platform for building AI agents and LLM orchestration with a visual interface.
+*   [GS1 Assistant](https://www.leftfootsoftware.com/products/gs1-assistant/): Assign and manage GTIN/ UPC/ EAN directly in your Shopify store.
 *   [Integra_tely](https://integrately.com/): 20M+ ready automations for 1200+ apps, enabling non-tech users to integrate apps with a single click and live chat support.
 *   [Zap_ier](https://zapier.com/): Build and scale AI workflows and agents across 8,000+ apps, trusted by 3 million+ businesses.
 *   [relay._app](https://www.relay.app/): Create AI agents that automate workflows across 100+ apps, connecting tools like Gmail, Slack, and Notion with AI-powered steps.
