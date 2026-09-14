@@ -474,6 +474,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Publer](https://publer.com/): It is a social media management tool with scheduling, analytics, collaboration, and automation tools for businesses and marketing teams.
 *   [RecurPost Pinterest Scheduler](https://recurpost.com/best-pinterest-scheduler/): It automates pin scheduling, offers AI content creation, and provides in-depth analytics for smart automation.
 *   [Sendible](https://www.sendible.com/): An all-in-one social media management platform designed to help agencies, marketers, and brands scale their social media efforts.
+*   [SocialEcho](https://www.socialecho.net/): AI-assisted social media workspace for cross-network publishing, engagement, listening, and analytics.
 *   [SocialBu](https://socialbu.com/): A social media management and automation tool for scheduling, publishing, responding, analyzing, and collaborating.
 *   [SocialPilot](https://socialpilot.co): It is a social media scheduling and management tool for agencies and brands to grow their presence.
 *   [Tailwind](https://www.tailwindapp.com/): A Pinterest marketing tool with Pin scheduling, content creation, and bulk editing tools. Start with a free forever plan.
