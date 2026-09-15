@@ -74,6 +74,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
 *   [Insider Trade Alerts](https://insidertradealerts.com/): Alerts users for SEC Form 4 Insider Trading Activity.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
+*   [Label Wizard](https://www.leftfootsoftware.com/products/label-wizard/): Design and print GS1 barcode/ QR code labels for Shopify products.
 *   [Locus](https://locus.sh/): AI-powered logistics platform for last-mile delivery & dispatch.
 *   [LowMedBill](https://lowmedbill.com/): LowMedBill uses AI to help individuals and families negotiate medical bills, aiming to reduce healthcare costs and simplify the billing process.
 *   [MyndField](https://myndfield.ai/): World's First Decision Engine.
