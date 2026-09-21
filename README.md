@@ -174,7 +174,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Mockoon](https://mockoon.com/): A free, open-source, cross-platform tool to create mock REST API servers in seconds, without remote deployment or accounts.
 *   [Nearbase](https://nearbase.dev/): Affordable managed Postgres in Asia.
 *   [Ollama's New Multimodal Engine](https://ollama.com/blog/multimodal-models): A new engine for multimodal models, enabling local inference for vision and other modalities with improved accuracy and reliability.
-*   [Omnara](https://www.omnara.com/): Command Center for AI Coding Agents.
+*   [Omnara](https://omnara.com/): The open-source API for production-ready AI agents.
 *   [OSINT Researcher](https://osintresearcher.com/): Explore GitHub orgs & repos.
 *   [Parasoft](https://www.parasoft.com/): AI-driven testing solutions automate quality, ensure compliance, and accelerate software delivery across the entire SDLC.
 *   [Perfecto](https://www.perfecto.io/): An enterprise-grade platform for automated web and mobile application testing, offering cloud-based test environments and AI-driven insights.
