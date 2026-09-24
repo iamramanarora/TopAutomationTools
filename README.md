@@ -33,6 +33,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Gixo Lex](https://gixo.ai/lex): AI Legal Drafting That Captures The Facts Before It Writes.
 *   [Gixo Quill](https://gixo.ai/quill): AI SEO Content Writer With Cited Sources.
 *   [GrammarChecker](https://aigrammarchecker.io/): AI Grammar Checker instantly fixes writing errors.
+*   [HelloCounsel](https://www.hellocounsel.ai/): AI voice agents that answer calls and log every note in your CMS.
 *   [Komment](https://www.komment.ai/): It automates software documentation with pipelines that plug into developer workflows, creating reliable docs with zero third-party reliance.
 *   [Leonardo.Ai](https://leonardo.ai/): An AI-powered platform for generating high-quality images, game assets, and design content using text prompts, trained models, and fine-tuned visual styles.
 *   [Linkeddit](https://www.linkeddit.com/): It helps you find your next customers on Reddit by creating custom AI agents that scrape Reddit for users ready to buy.
