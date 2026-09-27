@@ -266,6 +266,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Mailforge](https://www.mailforge.ai/): It provides cold email infrastructure with premium deliverability and automated setup, enabling users to create domains and mailboxes efficiently.
 *   [Mailmeteor](https://mailmeteor.com/): An email marketing platform that works directly from Gmail, offering personalized mass emails and real-time tracking.
 *   [MarketMuse](https://www.marketmuse.com/): An AI-powered content planning and optimization software that helps content teams create high-ranking, authoritative content.
+*   [Modellix](https://www.modellix.ai/): All leading AI models. One API. Zero hassle.
 *   [Moosend](https://moosend.com/): An email marketing and automation platform with features like A/B testing, analytics, and campaign management to maximize email marketing efforts.
 *   [Moz](https://moz.com/): It offers SEO software, tools, APIs, and data solutions to power digital marketing strategies and improve online visibility.
 *   [Murf AI](https://murf.ai/): AI voice generator and text to speech software with 200+ voices in 20+ languages for creating realistic AI voiceovers and audio products.
