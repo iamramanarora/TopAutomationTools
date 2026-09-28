@@ -449,6 +449,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [SmartRecruiters](https://www.smartrecruiters.com/): AI-powered talent acquisition software for enterprise-grade recruiting, applicant tracking, and efficient hiring processes.
 *   [Snov.io](https://snov.io/): It combines cold email, sales outreach, LinkedIn automation, and email finder tools into one platform, optimizing the sales process.
 *   [Spark Hire](https://www.sparkhire.com/): It offers flexible hiring software with ATS, video interviews, behavioral assessment, and reference checks for people-powered organizations.
+*   [StackScan](https://www.stackscan.com/): Builds B2B lead lists from the technology companies run on their websites, and shows the stack and company behind any domain.
 *   [Synthflow AI](https://synthflow.ai/): Automate phone calls with AI voice agents. Create custom AI phone call agents effortlessly, no coding needed.
 *   [Tarn](https://tarn.co/): It delivers Agentic AI to Salesforce, powered by OpenAI, providing an AI agent to enhance Salesforce workflows.
 
