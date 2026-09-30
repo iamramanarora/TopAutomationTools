@@ -159,6 +159,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Espresso](https://developer.android.com/training/testing/espresso): An Android UI testing framework for writing concise, beautiful, and reliable UI tests.
 *   [Framer Workshop](https://www.framer.com/workshop): Generate custom, editable Framer components with AI, enabling fast prototyping and production-ready results without coding.
 *   [Flutter](https://flutter.dev/): An open-source UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+*   [Forgex](https://forgex.r-kinetics.com/): Vibe coding platform for backend orchestration layer.
 *   [GitHub Actions](https://github.com/features/actions): Automate software workflows with GitHub Actions, featuring CI/CD, code review automation, and multi-platform support.
 *   [GoBuildMy.App](https://gobuildmy.app/): It lets you build iOS and Android apps by chatting, turning your idea into a functional app in seconds without code.
 *   [Harness](https://www.harness.io/): AI-Native Software Delivery Platform that enhances DevOps with CI/CD, feature flags, chaos engineering, and cloud cost management.
