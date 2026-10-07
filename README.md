@@ -461,6 +461,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Buffer](https://buffer.com/): It is a social media management platform for scheduling, publishing, and analyzing content across various social channels.
 *   [Circleboom](https://circleboom.com/): Circleboom is a social media management tool that enables users, brands, and SMBs to grow and strengthen their social accounts with ease.
 *   [Coso.ai](https://coso.ai/): An AI-powered social media co-pilot that automatically generates engaging content tailored to your brand and social trends.
+*   [FollowersAcheter.be Engagement Calculator](https://followersacheter.be/tools/engagement-rate): Free French-language calculator using manually entered likes, comments and followers, reach or views to calculate engagement ratios.
 *   [Hootsuite](https://www.hootsuite.com/): A social media management tool for scheduling, content creation, analytics, and social listening all in one place.
 *   [Hypefury](https://hypefury.com/): Hypefury helps creators build an audience and monetize their socials with social media scheduling & automation tools.
 *   [Lempod](https://lempod.com/): AI-powered LinkedIn automation tool that helps users 10x user engagement on LinkedIn posts with automated likes and comments.
