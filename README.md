@@ -73,6 +73,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Gigpie](https://gigpie.com/): Scheduling, billing, payroll, and CRM for education businesses.
 *   [Gixo Business](https://gixo.ai/business): AI Decision Support That Turns Messy Context Into Board-Ready Briefs.
 *   [Handoff](https://www.handoff.ai/): AI-powered construction software for remodelers and handymen, generating instant estimates and automating business operations.
+*   [Hissa](https://www.hissa.com/): ESOP Administration and Management Platform.
 *   [Insider Trade Alerts](https://insidertradealerts.com/): Alerts users for SEC Form 4 Insider Trading Activity.
 *   [KitchenCost](https://kitchencost.app/): Recipe cost calculator for chefs and small food businesses.
 *   [Label Wizard](https://www.leftfootsoftware.com/products/label-wizard/): Design and print GS1 barcode/ QR code labels for Shopify products.
