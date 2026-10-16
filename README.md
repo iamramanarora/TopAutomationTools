@@ -498,6 +498,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [syncX: Stock Sync](https://www.syncx.com/stock-sync): Import, bulk edit, real-time update and migrate products.
 *   [Zap_ier](https://zapier.com/): Build and scale AI workflows and agents across 8,000+ apps, trusted by 3 million+ businesses.
 *   [relay._app](https://www.relay.app/): Create AI agents that automate workflows across 100+ apps, connecting tools like Gmail, Slack, and Notion with AI-powered steps.
+*   [Kite Delivery Date picker](https://kitelane.com/): Pickup and delivery date picker for Shopify merchants.
 
 ---
 
