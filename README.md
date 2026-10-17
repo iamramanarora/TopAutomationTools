@@ -230,6 +230,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Appark](https://appark.ai/en): Free app market analytics for growth and competition insights.
 *   [AppStore Tracker](https://appstoretracker.com/): An open AppStore Explorer.
 *   [Attentive](https://www.attentive.com/): AI-powered SMS and email marketing platform that helps businesses deliver personalized customer experiences.
+*   [BacklinkGenie](https://backlinkgenie.com/): An AI outreach agent for link building that finds blog posts where your product fits, writes a pitch to each editor and sends it from a separate managed mailbox, with follow-ups and link monitoring.
 *   [Barra](https://www.barra.ai/): Website Toolbar Built to Improve Conversion rate by simplifying UX.
 *   [Bazzly](https://www.bazzly.ai/): Get Customers From Reddit on Autopilot.
 *   [BLOGBOTT](http://blogbott.com/): An AI blog automation platform that analyzes answer box algorithms to write and auto-publish SEO-optimized content, improving search visibility.
