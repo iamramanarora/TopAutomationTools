@@ -472,7 +472,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Mixpost](https://mixpost.app/): Mixpost is a self-hosted, open-source social media management tool for creating, scheduling, publishing, and managing content.
 *   [Mydrop](https://www.mydrop.ai/): It automates social media with AI-powered scheduling, cross-posting, and content creation, saving users time and improving efficiency.
 *   [Octolens](https://octolens.com): It is an AI-powered social listening tool for B2B SaaS, providing real-time alerts for brand mentions and competitor analysis.
-*   [OpenSparta](https://opensparta.com/en): Discover relevant audiences, manage Telegram accounts, and streamline engagement from one workspace.
+*   [OpenSparta](https://opensparta.com/en): Telegram operations SaaS workspace for conversation discovery, connected-account management, and proxy operations.
 *   [Pallyy](https://pallyy.com/): A social media scheduling tool for solo creators and teams to plan, schedule, and publish content across multiple platforms.
 *   [Planable](https://planable.io/): A social media management tool for planning, collaborating, approving, and scheduling social media posts.
 *   [Planoly](https://www.planoly.com/): A social media planner and management tool empowering creators to schedule posts, manage accounts, and organize content.
