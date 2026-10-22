@@ -425,6 +425,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Datagma](https://datagma.com/): B2B data enrichment & phone finder. Find verified emails & mobile numbers in real-time. API & file upload available.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Dolphin AI](https://www.getdolphin.ai/): It turns customer calls into shareable highlight reels, finding and snipping key quotes with AI-powered automation for sales and marketing.
+*   [Drevon](https://www.drevon.dev): Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins.
 *   [Fountain India](https://www.fountain.com/in/fountain-india): It streamlines high-volume hiring with AI-powered automation, mobile-first solutions, and multilingual support for diverse industries.
 *   [Gixo Arc](https://gixo.ai/arc): AI Proposal Software For Sales, Consulting, RFP, And Grant Proposals.
 *   [Gloroots](https://www.gloroots.com/): From hire to payroll—Gloroots powers your global team.
