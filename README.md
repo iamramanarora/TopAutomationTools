@@ -466,6 +466,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Coso.ai](https://coso.ai/): An AI-powered social media co-pilot that automatically generates engaging content tailored to your brand and social trends.
 *   [Hootsuite](https://www.hootsuite.com/): A social media management tool for scheduling, content creation, analytics, and social listening all in one place.
 *   [Hypefury](https://hypefury.com/): Hypefury helps creators build an audience and monetize their socials with social media scheduling & automation tools.
+*   [JuzPost](https://www.juzpost.com/): AI-first social media scheduler for 11 networks that you can also drive from Claude or ChatGPT over MCP, with a free plan.
 *   [Lempod](https://lempod.com/): AI-powered LinkedIn automation tool that helps users 10x user engagement on LinkedIn posts with automated likes and comments.
 *   [METRICOOL](https://metricool.com/): The ultimate social media management tool for scheduling, analyzing, and managing your digital content and online ads.
 *   [Missinglettr](https://missinglettr.com/): An all-in-one social marketing platform that automates content distribution and helps find influencers.
