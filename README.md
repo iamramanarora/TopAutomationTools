@@ -32,6 +32,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Gixo Folio](https://gixo.ai/folio): AI Book Studio That Turns Your Existing Expertise Into A Finished Book.
 *   [Gixo Lex](https://gixo.ai/lex): AI Legal Drafting That Captures The Facts Before It Writes.
 *   [Gixo Quill](https://gixo.ai/quill): AI SEO Content Writer With Cited Sources.
+*   [Gleam Audio](https://gleamaudio.com/): On-device AI cleanup, enhance, editor for voice and audio.
 *   [GrammarChecker](https://aigrammarchecker.io/): AI Grammar Checker instantly fixes writing errors.
 *   [HelloCounsel](https://www.hellocounsel.ai/): AI voice agents that answer calls and log every note in your CMS.
 *   [HeyBop.ai](https://heybop.ai/): Turn your song into an AI music video, cut to the beat.
