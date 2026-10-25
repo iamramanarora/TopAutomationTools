@@ -315,6 +315,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Trofeo.live](https://trofeo.live/): Sports Prediction Pools for Friends & Coworkers.
 *   [TubeBuddy](https://www.tubebuddy.com/): It is a premier YouTube channel management toolkit designed to help creators optimize, manage, and grow their channels efficiently.
 *   [Upleap](https://upleap.com/): An Instagram growth service that helps users gain real followers and increase engagement through targeted organic growth.
+*   [URL2Pin](https://url2pin.com/): Turn any Amazon, Etsy, Shopify or blog URL into ready-to-post Pinterest pins with AI images, SEO titles, descriptions and scheduling, plus an optional daily Autopilot. Free plan available.
 *   [Writesonic](https://writesonic.com/generative-engine-optimization-geo): Track, benchmark, and optimize your brand’s AI search visibility on ChatGPT, Google AI Overviews, Claude, and more with Writesonic's GEO.
 *   [ZeroBounce](https://www.zerobounce.net/): It offers email validation, list cleaning, and deliverability tools to improve email marketing ROI and sender reputation.
 *   [cognitiveSEO](https://cognitiveseo.com/): It tool provides backlink analysis, content audit, rank tracking, and site audit for increased traffic and improved rankings.
