@@ -156,6 +156,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [CodeRabbit](https://www.coderabbit.ai/): Provides AI-powered code reviews, automating issue detection and code improvement suggestions for faster and more efficient development.
 *   [Codemagic](https://codemagic.io/start/): It is a CI/CD platform tailored for mobile app development, offering automated building, testing, and releasing for various platforms.
 *   [Cucumber](https://cucumber.io/): It is a tool for running automated acceptance tests written in plain language, improving team communication and collaboration.
+*   [CurlShot](https://curlshot.com/): Screenshot API that turns a URL, HTML or Markdown into a full-page PNG, JPEG, WebP, PDF or scrolling video with one HTTP request, with async jobs, webhooks and an MCP server for AI agents.
 *   [Daytona](https://www.daytona.io/): It provides secure infrastructure for running AI-generated code, offering fast environment creation and enterprise-grade security.
 *   [Docker](https://www.docker.com/): A platform for developers to build, share, and run containerized applications consistently across any environment.
 *   [Domainee](https://domainee.dev/): Custom Domains & Domain Purchasing API for SaaS.
