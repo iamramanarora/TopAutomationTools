@@ -441,6 +441,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Jobvite](https://www.jobvite.com/): AI-powered recruitment software to simplify complex hiring, enhance candidate experience, and boost efficiency for all team sizes.
 *   [Lavender](https://www.lavender.ai/): AI email coach that helps sales teams write better emails faster and get more positive replies in less time.
 *   [Lemlist](https://www.lemlist.com/): AI-powered sales engagement platform that helps automate multichannel outreach and get more replies from leads.
+*   [looot](https://looot.ai/): Data API and MCP server for agents, with 300+ providers covering enrichment, SEO and scraping.
 *   [Manatal](https://www.manatal.com/): AI recruitment software designed to source and hire candidates faster for HR teams, recruitment agencies, and headhunters.
 *   [MyInterview](https://www.myinterview.com/): It automates hiring with AI, streamlining screening, scheduling, and video interviews for efficient recruitment.
 *   [Paradox](https://www.paradox.ai/): AI-powered conversational hiring software automating recruiting tasks for faster, easier candidate experience and efficient hiring.
