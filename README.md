@@ -279,6 +279,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [NiceJob](https://get.nicejob.com/): An all-in-one reputation marketing software that automates review generation, referrals, and social media content for local businesses.
 *   [Odysys](https://www.odysys.com/): It provides website design, SEO, marketing services, and performance analytics for the hospitality industry to book more guests.
 *   [onmediamarket](https://www.onmediamarket.com/): Marketplace platform to connect clients with marketers and creators.
+*   [OpenSparta](https://opensparta.com/): Telegram marketing workspace for discovering relevant communities, managing connected accounts, and coordinating campaigns, with Lead Radar monitoring selected communities for buying requests.
 *   [OpusClip](https://www.opus.pro/): An AI-powered video clipping and editing tool that repurposes long videos into viral short clips for social media.
 *   [OptiMonk](https://www.optimonk.com/): Popup builder to design popups for email, SMS, and product recommendations to boost conversions with personalization and A/B testing.
 *   [Page Optimizer Pro](https://www.pageoptimizer.pro/): A complete on-page SEO and content optimization tool suite designed to create, optimize, and maintain high-performing content for Google.
