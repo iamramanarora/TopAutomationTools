@@ -227,6 +227,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Ai Trillion](https://www.aitrillion.com/): An all-in-one Shopify marketing automation platform with email, SMS, loyalty, reviews, live chat, and workflow automation.
 *   [AirOps](https://www.airops.com/): It helps marketers build powerful LLM workflows that combine data, GPT-4, Claude, and Gemini to drive real growth in their business.
 *   [Airpost](https://airpost.ai/): AI-powered video ad creation platform with creative strategists, offering enterprise-grade UGC video ads for growth marketers.
+*   [Akii: SEO & AI Search Optimizer](https://akii.com/portfolio#search-optimizer): A free Claude Code plugin for site audits, link checks, content plans and structured data.
 *   [Alli AI](https://www.alliai.com/): AI SEO tool for marketing agencies and enterprises. Automate SEO tasks, improve efficiency, and achieve higher rankings.
 *   [Appark](https://appark.ai/en): Free app market analytics for growth and competition insights.
 *   [AppStore Tracker](https://appstoretracker.com/): An open AppStore Explorer.
@@ -273,6 +274,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Mailforge](https://www.mailforge.ai/): It provides cold email infrastructure with premium deliverability and automated setup, enabling users to create domains and mailboxes efficiently.
 *   [Mailmeteor](https://mailmeteor.com/): An email marketing platform that works directly from Gmail, offering personalized mass emails and real-time tracking.
 *   [MarketMuse](https://www.marketmuse.com/): An AI-powered content planning and optimization software that helps content teams create high-ranking, authoritative content.
+*   [Marquorum](https://marquorum.com/): A free affiliate network that gives creators links and promotional assets for Agentic Services.
 *   [Modellix](https://www.modellix.ai/): All leading AI models. One API. Zero hassle.
 *   [Moosend](https://moosend.com/): An email marketing and automation platform with features like A/B testing, analytics, and campaign management to maximize email marketing efforts.
 *   [Moz](https://moz.com/): It offers SEO software, tools, APIs, and data solutions to power digital marketing strategies and improve online visibility.
@@ -447,6 +449,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Paradox](https://www.paradox.ai/): AI-powered conversational hiring software automating recruiting tasks for faster, easier candidate experience and efficient hiring.
 *   [PeopleFluent](https://www.peoplefluent.com/): It offers talent management & learning solutions for large enterprises, focusing on workforce agility and compliance.
 *   [RepScout](https://repscout.ai/): An AI-powered talent assessment platform that helps companies evaluate candidates through objective, data-driven insights.
+*   [Revenue Scout](https://revenuescout.ai/): Finds public buying conversations across seven social platforms and drafts replies for review and manual posting.
 *   [Saina](https://ai.hirehunch.com/interview/): An AI-powered hiring platform that automates candidate screening and interviews, helping recruiters quickly identify top talent.
 *   [SalesAgent Chat](https://www.salesagent.chat): AI-powered coach and assistant to boost confidence and close more deals.
 *   [SalesMagic](https://www.salesmagic.com/): Virtual role-playing and live-call analysis for sales teams.
