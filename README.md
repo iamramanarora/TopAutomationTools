@@ -449,7 +449,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Paradox](https://www.paradox.ai/): AI-powered conversational hiring software automating recruiting tasks for faster, easier candidate experience and efficient hiring.
 *   [PeopleFluent](https://www.peoplefluent.com/): It offers talent management & learning solutions for large enterprises, focusing on workforce agility and compliance.
 *   [RepScout](https://repscout.ai/): An AI-powered talent assessment platform that helps companies evaluate candidates through objective, data-driven insights.
-*   [Revenue Scout](https://revenuescout.ai/): Finds public buying conversations across seven social platforms and drafts replies for review and manual posting.
+*   [Revenue Scout](https://revenuescout.ai/): Sales Prospecting Assistant that finds public buying conversations across seven social platforms and drafts replies for review and manual posting.
 *   [Saina](https://ai.hirehunch.com/interview/): An AI-powered hiring platform that automates candidate screening and interviews, helping recruiters quickly identify top talent.
 *   [SalesAgent Chat](https://www.salesagent.chat): AI-powered coach and assistant to boost confidence and close more deals.
 *   [SalesMagic](https://www.salesmagic.com/): Virtual role-playing and live-call analysis for sales teams.
