@@ -339,6 +339,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Canary Mail](https://canarymail.io/): An AI-powered email client with integrated calendar, offering features like AI email writing, summarization, and categorization.
 *   [ClickUp](https://clickup.com/lp): An all-in-one productivity platform that centralizes tasks, docs, goals, and communication to help teams manage projects and workflows efficiently.
 *   [DeckSpeed](https://www.deckspeed.com/en): An AI-powered presentation tool that creates personalized slides from conversations, eliminating the need for templates.
+*   [Eva Split](https://evasplit.com/): AI Receipt Splitting and Expense Tracking App.
 *   [Fantastic Portfolios](https://fantasticportfolios.com/): An AI-powered portfolio website builder within 30 seconds.
 *   [FileTract](https://filetract.com/): It automates financial data extraction, analysis, and organization with AI, saving time and unlocking growth opportunities.
 *   [Finetuning](https://promptrepo.com/finetune/): AI models using data in Google Sheets, test with formulas, and integrate into apps via API for custom AI solutions.
@@ -413,7 +414,6 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Worklytics](https://www.worklytics.co/): Analytics on AI and Productivity.
 *   [remio](https://www.remio.ai/): An AI productivity assistant that captures, organizes, and helps utilize information securely on your device, enhancing workflow.
 *   [X-doc AI](https://x-doc.ai/): The most accurate AI translator
-*   [Eva Split](https://evasplit.com/): AI Receipt Splitting and Expense Tracking App.
 
 ---
 
