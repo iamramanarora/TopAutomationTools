@@ -413,6 +413,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Worklytics](https://www.worklytics.co/): Analytics on AI and Productivity.
 *   [remio](https://www.remio.ai/): An AI productivity assistant that captures, organizes, and helps utilize information securely on your device, enhancing workflow.
 *   [X-doc AI](https://x-doc.ai/): The most accurate AI translator
+*   [Eva Split](https://evasplit.com/): AI Receipt Splitting and Expense Tracking App.
 
 ---
 
