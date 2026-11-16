@@ -27,6 +27,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [CitizenCY](https://societates-civis.com/citizency): Cypriot Citizenship & Residency, made simple.
 *   [Clemta Intelligence](https://clemta.com/intelligence/): An AI-powered business assistant automating bookkeeping, tax prep, and financial reporting for streamlined growth.
 *   [Consul](https://consul.so/): Executive Assistant That Runs Your Calendar, Inbox & Scheduling.
+*   [EraseNoise](https://erasenoise.com/): Browser tool that cleans noisy speech and lets you preview a short before-and-after before exporting the full file.
 *   [ExamGPT](https://excelas.ai/): AI Assessment Platform.
 *   [Forte AI](https://www.forte-ai.com/): The fastest way to automate audio workflows.
 *   [Gixo Folio](https://gixo.ai/folio): AI Book Studio That Turns Your Existing Expertise Into A Finished Book.
