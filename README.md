@@ -35,6 +35,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Gleam Audio](https://gleamaudio.com/): On-device AI cleanup, enhance, editor for voice and audio.
 *   [GrammarChecker](https://aigrammarchecker.io/): AI Grammar Checker instantly fixes writing errors.
 *   [HelloCounsel](https://www.hellocounsel.ai/): AI voice agents that answer calls and log every note in your CMS.
+*   [HelloToSold](https://hellotosold.com/): An AI sales agent for WhatsApp and social messaging that qualifies leads, screens inquiries by custom business rules, and guides potential buyers toward the next step.
 *   [HeyBop.ai](https://heybop.ai/): Turn your song into an AI music video, cut to the beat.
 *   [Komment](https://www.komment.ai/): It automates software documentation with pipelines that plug into developer workflows, creating reliable docs with zero third-party reliance.
 *   [Leonardo.Ai](https://leonardo.ai/): An AI-powered platform for generating high-quality images, game assets, and design content using text prompts, trained models, and fine-tuned visual styles.
