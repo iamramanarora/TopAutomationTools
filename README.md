@@ -430,6 +430,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Datagma](https://datagma.com/): B2B data enrichment & phone finder. Find verified emails & mobile numbers in real-time. API & file upload available.
 *   [demonstro](https://demonstro.io/): Tinder for B2B sales: trade warm intros, skip cold outreach.
 *   [Dolphin AI](https://www.getdolphin.ai/): It turns customer calls into shareable highlight reels, finding and snipping key quotes with AI-powered automation for sales and marketing.
+*   [FairValid](https://fairvalid.com/): Email verification and work-email discovery for sales workflows, with bulk checks, a REST API, and an official hosted MCP server.
 *   [Fountain India](https://www.fountain.com/in/fountain-india): It streamlines high-volume hiring with AI-powered automation, mobile-first solutions, and multilingual support for diverse industries.
 *   [Gixo Arc](https://gixo.ai/arc): AI Proposal Software For Sales, Consulting, RFP, And Grant Proposals.
 *   [Gloroots](https://www.gloroots.com/): From hire to payroll—Gloroots powers your global team.
