@@ -182,6 +182,7 @@ A curated list of tools for marketing, development, sales, and workflow automati
 *   [Ollama's New Multimodal Engine](https://ollama.com/blog/multimodal-models): A new engine for multimodal models, enabling local inference for vision and other modalities with improved accuracy and reliability.
 *   [Omnara](https://omnara.com/): The open-source API for production-ready AI agents.
 *   [OSINT Researcher](https://osintresearcher.com/): Explore GitHub orgs & repos.
+*   [Panoply](https://panoply.io/): /Independent directory of data tools.
 *   [Parasoft](https://www.parasoft.com/): AI-driven testing solutions automate quality, ensure compliance, and accelerate software delivery across the entire SDLC.
 *   [Perfecto](https://www.perfecto.io/): An enterprise-grade platform for automated web and mobile application testing, offering cloud-based test environments and AI-driven insights.
 *   [Pixelagent](https://github.com/pixeltable/pixelagent): Multimodal stateful agents, a framework for building custom agentic applications with memory and tool-calling.
